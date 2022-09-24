@@ -4,6 +4,7 @@
     "text": "Total Litres of Beer, Spirits and Wine Consumed Annually around the World",
     "fontSize": 16
   },
+  "padding": 5,
   "width": 1000,
   "height": 560,
   "data": {
