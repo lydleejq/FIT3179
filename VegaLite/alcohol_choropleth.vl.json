@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Total Litres of Alcohol Consumed Per Person around the World, 2010",
+    "text": "Litres of Alcohol Consumed Per Capita (age 15 and over) in Each Country, 2010",
     "fontSize": 16
   },
   "padding": 5,
@@ -53,7 +53,7 @@
       "mark": {"type": "geoshape", "stroke": "white"},
       "encoding": {
         "color": {
-          "title": "Total litres / person",
+          "title": "Litres of alcohol / person",
           "field": "total_litres_of_pure_alcohol",
           "type": "quantitative",
           "scale": {
