@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 600,
+    "width": 800,
     "height": {"step": 20},
     "title":"Number of deaths by risk factor",
     "data": {"url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/Week10Homework/number-of-deaths-by-risk-factor-world.csv"},
