@@ -18,4 +18,4 @@
       },
       "color": {"field":"Alctype","sort": ["Spirits", "Beer", "Wine"], "scale":{"scheme": "tableau10"}, "title":"Type of Alcohol"}
     }
-  }
+  } 
