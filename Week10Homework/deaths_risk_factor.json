@@ -1,0 +1,76 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 300,
+    "height":"container",
+    "title":"Number of deaths by risk factor by year",
+    "data": {"url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/Week10Homework/number-of-deaths-by-risk-factor-world.csv"},
+    "params": [
+      {
+        "name": "Year_selection",
+        "value": 1990,
+        "bind": {
+          "input": "range",
+          "min": 1990,
+          "max": 2019,
+          "step": 1,
+          "name": "Year: "
+        }
+      },
+      
+    ],
+    "transform": [
+      {
+        "filter": "datum.Year == Year_selection"
+      }
+    ],
+    "encoding": {
+      "y": {
+        "field": "Risk",
+        "type": "nominal",
+        "axis": {"minExtent": 100, "title": null},
+        "sort": "-x"
+      },
+      "x": {
+        "aggregate": "sum",
+        "field": "Number of cases"
+      }
+    },
+    "layer": [{
+      "mark": {"type": "bar", "color": "#ddd"},
+      "encoding": {
+        "x": {
+          "aggregate": "sum",
+          "field": "Number of cases",
+          "scale": {"type": "linear"},
+          "title": "Number of deaths"
+        },
+          "color": {
+            "condition": [
+              {
+                "value": "darkred",
+                "test": {"field": "Risk", "oneOf": ["Alcohol use"]}
+              }
+            ],
+            "value": "#ddd"
+          }
+      }
+    }, {
+      "mark": {"type": "text", "align": "left", "x": 5},
+      "encoding": {
+        "text": {
+          "field": "Number of cases", 
+          "format":".4s"
+          },
+          "color": {
+            "condition": [
+              {
+                "value": "darkred",
+                "test": {"field": "Risk", "oneOf": ["Alcohol use"]}
+              }
+            ],
+            "value": "#808080"
+          },
+        "detail": {"aggregate": "count"}
+      }
+    }]
+  }
