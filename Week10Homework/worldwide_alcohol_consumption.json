@@ -3,6 +3,7 @@
     "title": "Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",
     "padding": 5,
     "width": "container",
+    "height": "container",
     "params": [
       {
         "name": "Year_selection",
