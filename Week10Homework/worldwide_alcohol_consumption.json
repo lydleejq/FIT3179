@@ -85,7 +85,7 @@
             {
               "field": "Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",
               "type": "quantitative",
-              "title": "Total alcohol consumption per capita",
+              "title": "Litres of alcohol",
               "format": ".2f"
             },
             {"field": "Year", "type": "quantitative", "title": "Year"}

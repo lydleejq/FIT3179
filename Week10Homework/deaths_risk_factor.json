@@ -52,7 +52,18 @@
               }
             ],
             "value": "#ddd"
-          }
+          },
+          "tooltip": [
+            {"field": "Entity", "type": "nominal", "title": "Location"},
+            {"field": "Risk", "type": "nominal", "title": "Risk factor"},
+            {
+              "field": "Number of cases",
+              "type": "quantitative",
+              "title": "Number of cases",
+              "format": ","
+            },
+            {"field": "Year", "type": "quantitative", "title": "Year"}
+          ]
       }
     }, {
       "mark": {"type": "text", "align": "left", "x": 5},
