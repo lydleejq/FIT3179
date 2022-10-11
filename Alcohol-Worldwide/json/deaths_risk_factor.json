@@ -48,7 +48,7 @@
           "color": {
             "condition": [
               {
-                "value": "darkred",
+                "value": "tomato",
                 "test": {"field": "Risk", "oneOf": ["Alcohol use"]}
               }
             ],
@@ -76,11 +76,11 @@
           "color": {
             "condition": [
               {
-                "value": "darkred",
+                "value": "tomato",
                 "test": {"field": "Risk", "oneOf": ["Alcohol use"]}
               }
             ],
-            "value": "#808080"
+            "value": "white"
           },
         "detail": {"aggregate": "count"}
       }
