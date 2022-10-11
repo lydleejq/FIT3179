@@ -64,10 +64,11 @@
       "gridColor":"#5c5c5c"
     },
     "legend":{
-      "orient":"right",
+      "orient":"bottom-left",
       "labelColor":"whitesmoke",
       "labelFontSize": 10,
-      "titleColor":"whitesmoke"
+      "titleColor":"whitesmoke",
+      "fillColor":"#5c5c5cc2"
     }
   } 
 }
