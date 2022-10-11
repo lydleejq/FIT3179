@@ -30,7 +30,7 @@
       }
     }
   ],
-  "projection": {"type": "equalEarth"},
+  "projection": {"type": "equirectangular"},
   "layer": [
     {
       "data": {
