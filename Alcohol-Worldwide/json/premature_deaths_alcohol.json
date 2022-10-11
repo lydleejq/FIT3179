@@ -1,0 +1,65 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/Alcohol-Worldwide/data/rate-of-premature-deaths-due-to-alcohol-world.csv"},
+    "width": "container",
+    "height": "container",
+    "title": "Rate of premature deaths due to alcohol, 1990 to 2019",
+    "encoding": {"x": {"field": "Year", "type": "temporal"}},
+    "layer": [
+      {
+        "encoding": {
+          "color": {"field": "Entity", "type": "nominal"},
+          "y": {"field": "Deaths", "type": "quantitative"}
+        },
+        "layer": [
+          {"mark": "line"},
+          {"transform": [{"filter": {"param": "hover", "empty": false}}], "mark": "point"}
+        ]
+      },
+      {
+        "transform": [{"pivot": "Entity", "value": "Deaths", "groupby": ["Year"]}],
+        "mark": {"type" : "rule", "strokeDash": [7,7],
+            "strokeWidth": 2, "color":"white"},
+        "encoding": {
+          "opacity": {
+            "condition": {"value": 0.3, "param": "hover", "empty": false},
+            "value": 0
+          },
+          "tooltip": [
+            {"field": "World", "type": "quantitative", "format":".2f"},
+            {"field": "World Bank High Income", "type": "quantitative", "title":"High Income","format":".2f"},
+            {"field": "World Bank Low Income", "type": "quantitative", "title":"Low Income","format":".2f"},
+            {"field": "World Bank Lower Middle Income", "type": "quantitative", "title":"Lower Middle Income","format":".2f"},
+            {"field": "World Bank Upper Middle Income", "type": "quantitative", "title": "Upper Middle Income","format":".2f"}
+          ]
+        },
+        "params": [{
+          "name": "hover",
+          "select": {
+            "type": "point",
+            "fields": ["Year"],
+            "nearest": true,
+            "on": "mouseover",
+            "clear": "mouseout"
+          }
+        }]
+      }
+    ],
+    "config":{
+      "title":{
+        "color":"whitesmoke"
+      },
+      "background":"#181b1f",
+      "axis": {
+        "labelColor":"whitesmoke",
+        "titleColor":"whitesmoke",
+        "gridColor":"#5c5c5c"
+      },
+      "legend":{
+        "orient":"right",
+        "labelColor":"whitesmoke",
+        "titleColor":"whitesmoke"
+      }
+    } 
+  }
+  

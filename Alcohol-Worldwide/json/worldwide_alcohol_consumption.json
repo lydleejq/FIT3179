@@ -56,7 +56,7 @@
         "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/7_others/oceans.topojson",
         "format": {"type": "topojson", "feature": "oceans"}
       },
-      "mark": {"type": "geoshape", "fill": "#c6ecff"}
+      "mark": {"type": "geoshape", "fill": "#181b1f"}
     },
     {
       "data": {
