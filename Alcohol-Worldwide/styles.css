@@ -28,18 +28,21 @@ body {
     max-width: 1000px;
     padding: 2.5em 1em 0;
  }
-    .header h1 {
+    
+.header h1 {
         margin: 0.2em 0;
         font-size: 3em;
         font-weight: 500;
-    }
-     .header h2 {
+}
+     
+.header h2 {
         font-size: 0.8em;
         font-weight: 300;
         color: black;
         padding: 0;
         margin-top: 0;
-    }
+}
+
 .header-container{
     display: flex;
 }
