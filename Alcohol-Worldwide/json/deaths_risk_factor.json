@@ -3,7 +3,7 @@
     "width": 800,
     "height": {"step": 20},
     "title":"Total annual number of deaths by risk factor, World",
-    "data": {"url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/Week10Homework/number-of-deaths-by-risk-factor-world.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/Alcohol-Worldwide/data/number-of-deaths-by-risk-factor-world.csv"},
     "params": [
       {
         "name": "Year_selection",
