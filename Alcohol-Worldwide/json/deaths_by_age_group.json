@@ -46,7 +46,7 @@
         "stack": "normalize",
         "title":"Percentage (%) of cases"
       },
-      "color": {"field":"Age group","sort": ["70+ years", "50-69 years", "15-49 years", "5-14 years", "Under 5"], "scale":{"scheme": "tableau10"}, "title":"Age Group"},
+      "color": {"field":"Age group","sort": ["70+ years", "50-69 years", "15-49 years", "5-14 years", "Under 5"], "scale":{"scheme": "paired"}, "title":"Age Group"},
       "opacity": {
       "condition": {"param": "Age group", "value": 1},
       "value": 0.2
@@ -64,7 +64,7 @@
       "gridColor":"#5c5c5c"
     },
     "legend":{
-      "orient":"bottom",
+      "orient":"top",
       "labelColor":"whitesmoke",
       "labelFontSize": 10,
       "titleColor":"whitesmoke"
