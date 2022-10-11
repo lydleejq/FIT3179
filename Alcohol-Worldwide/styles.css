@@ -43,6 +43,11 @@ body {
 .header-container{
     display: flex;
 }
+.header-container img{
+    align-self: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
 
 .description h2,
 h1 {
