@@ -1,0 +1,33 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title":"Premature deaths attributed to alcohol use by age, World, 1990 to 2019",
+    "data": {"url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/Alcohol-Worldwide/data/deaths-attributed-to-alcohol-use-by-age-world.csv"},
+    "width": "container", "height": "container",
+    "params": [{
+    "name": "Age group",
+    "select": {"type": "point", "fields": ["Age group"]},
+    "bind": "legend"
+  }],
+    "mark": "area",
+    "encoding": {
+      "x": {
+        "timeUnit": "year", "field": "Year",
+        "axis": {"domain": false, "format": "%Y"},
+        "title":"Year"
+      },
+      "y": {
+        "aggregate": "sum", "field": "Number of cases",
+        "axis": {"domain": true, "format": "#%"},
+        "stack": "normalize",
+        "title":"Percentage (%) of cases"
+      },
+      "color": {"field":"Age group","sort": ["70+ years", "50-69 years", "15-49 years", "5-14 years", "Under 5"], "scale":{"scheme": "tableau10"}, "title":"Age Group"}
+      ,
+      "opacity": {
+      "condition": {"param": "Age group", "value": 1},
+      "value": 0.2
+    }
+  } 
+}
+
+
