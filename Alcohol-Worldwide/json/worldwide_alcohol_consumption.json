@@ -45,7 +45,7 @@
       ],
       "mark": {
         "type": "geoshape",
-        "fill": "#ddd",
+        "fill": "#5c5c5c",
         "stroke": "white",
         "strokeWidth": 1
       },
@@ -63,7 +63,7 @@
         "url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/VegaLite/ne_110m.json",
         "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
       },
-      "mark": {"type": "geoshape", "fill": null, "stroke": "#ddd"}
+      "mark": {"type": "geoshape", "fill": null, "stroke": "#5c5c5c"}
     },
     {
       "data": {
