@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title":"Premature deaths attributed to alcohol use by age, World, 1990 to 2019",
+    "title":"Premature deaths attributed to alcohol use by age, 1990 to 2019",
     "data": {"url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/Alcohol-Worldwide/data/deaths-attributed-to-alcohol-use-by-age-world.csv"},
     "width": "container", 
     "height": "container",
@@ -24,12 +24,12 @@
           "labels": [
             "Select",
             "World",
-            "High Income Countries",
-            "Low Income Countries",
-            "Lower Middle Income Countries",
-            "Upper Middle Income Countries"
+            "World Bank High Income",
+            "World Bank Low Income",
+            "World Bank Lower Middle Income",
+            "World Bank Upper Middle Income"
           ],
-          "name": "Country: "
+          "name": "Region: "
         }
       }
     ],
