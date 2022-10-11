@@ -1,13 +1,38 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title":"Premature deaths attributed to alcohol use by age, World, 1990 to 2019",
+    "background": "#181b1f",
     "data": {"url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/Alcohol-Worldwide/data/deaths-attributed-to-alcohol-use-by-age-world.csv"},
     "width": "container", "height": "container",
     "params": [{
     "name": "Age group",
     "select": {"type": "point", "fields": ["Age group"]},
     "bind": "legend"
-  }],
+    },
+    {
+        "name": "Entity_selection",
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "World",
+            "World Bank High Income",
+            "World Bank Low Income",
+            "World Bank Lower Middle Income",
+            "World Bank Upper Middle Income"
+          ],
+          "labels": [
+            "Select",
+            "World",
+            "World - High Income",
+            "World - Low Income",
+            "World - Lower Middle Income",
+            "World - Upper Middle Income"
+          ],
+          "name": "Country: "
+        }
+      }
+    ],
     "mark": "area",
     "encoding": {
       "x": {
@@ -21,13 +46,28 @@
         "stack": "normalize",
         "title":"Percentage (%) of cases"
       },
-      "color": {"field":"Age group","sort": ["70+ years", "50-69 years", "15-49 years", "5-14 years", "Under 5"], "scale":{"scheme": "tableau10"}, "title":"Age Group"}
-      ,
+      "color": {"field":"Age group","sort": ["70+ years", "50-69 years", "15-49 years", "5-14 years", "Under 5"], "scale":{"scheme": "tableau10"}, "title":"Age Group"},
       "opacity": {
       "condition": {"param": "Age group", "value": 1},
       "value": 0.2
+      }
+   },
+   "transform": [{"filter": "datum.Entity==Entity_selection"}],
+  "config":{
+    "title":{
+      "color":"whitesmoke"
+    },
+    "axis": {
+      "labelColor":"whitesmoke"
+    },
+    "legend":{
+      "orient":"right",
+      "labelColor":"whitesmoke"
     }
   } 
 }
+
+
+
 
 
