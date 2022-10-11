@@ -58,14 +58,19 @@
       "color":"whitesmoke"
     },
     "axis": {
-      "labelColor":"whitesmoke"
+      "labelColor":"whitesmoke",
+      "titleColor":"whitesmoke"
     },
     "legend":{
       "orient":"right",
-      "labelColor":"whitesmoke"
+      "labelColor":"whitesmoke",
+      "titleColor":"whitesmoke"
     }
   } 
 }
+
+
+
 
 
 

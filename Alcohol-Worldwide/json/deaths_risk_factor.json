@@ -83,5 +83,19 @@
           },
         "detail": {"aggregate": "count"}
       }
-    }]
+    }],
+    "config":{
+      "title":{
+        "color":"whitesmoke"
+      },
+      "axis": {
+        "labelColor":"whitesmoke",
+        "titleColor":"whitesmoke"
+      },
+      "legend":{
+        "orient":"right",
+        "labelColor":"whitesmoke",
+        "titleColor":"whitesmoke"
+      }
+    } 
   }
