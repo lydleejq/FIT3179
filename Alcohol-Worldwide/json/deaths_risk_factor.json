@@ -2,6 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": "container",
     "height": "container",
+    "background":"#181b1f",
     "title":"Total annual number of deaths by risk factor, World",
     "data": {"url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/Alcohol-Worldwide/data/number-of-deaths-by-risk-factor-world.csv"},
     "params": [

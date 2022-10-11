@@ -4,6 +4,7 @@
   "padding": 5,
   "width": "container",
   "height": "container",
+  "background":"#181b1f",
   "params": [
     {
       "name": "Year_selection",

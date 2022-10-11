@@ -3,7 +3,8 @@
     "title":"Premature deaths attributed to alcohol use by age, World, 1990 to 2019",
     "background": "#181b1f",
     "data": {"url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/Alcohol-Worldwide/data/deaths-attributed-to-alcohol-use-by-age-world.csv"},
-    "width": "container", "height": "container",
+    "width": "container", 
+    "height": "container",
     "params": [{
     "name": "Age group",
     "select": {"type": "point", "fields": ["Age group"]},
