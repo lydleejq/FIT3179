@@ -4,7 +4,6 @@
   "padding": 5,
   "width": "container",
   "height": "container",
-  "background":"#181b1f",
   "params": [
     {
       "name": "Year_selection",
@@ -51,13 +50,7 @@
       },
       "encoding": {"tooltip": {"field": "note"}}
     },
-    {
-      "data": {
-        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/7_others/oceans.topojson",
-        "format": {"type": "topojson", "feature": "oceans"}
-      },
-      "mark": {"type": "geoshape", "fill": "#181b1f"}
-    },
+    
     {
       "data": {
         "url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/VegaLite/ne_110m.json",
@@ -86,7 +79,7 @@
         },
         {"filter": "datum.Year==Year_selection"}
       ],
-      "mark": {"type": "geoshape", "stroke": "#fff", "strokeWidth": 0.5},
+      "mark": {"type": "geoshape", "stroke": "#fff", "strokeWidth": 0.3},
       "encoding": {
         "shape": {"field": "geo", "type": "geojson"},
         "color": {
@@ -112,6 +105,7 @@
     "title":{
       "color":"whitesmoke"
     },
+    "background":"#181b1f",
     "axis": {
       "labelColor":"whitesmoke",
       "titleColor":"whitesmoke",

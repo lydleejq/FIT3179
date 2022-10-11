@@ -56,7 +56,7 @@
         "gridColor":"#5c5c5c"
       },
       "legend":{
-        "orient":"right",
+        "orient":"top-right",
         "labelColor":"whitesmoke",
         "titleColor":"whitesmoke"
       }
