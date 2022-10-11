@@ -1,0 +1,151 @@
+Entity,Code,Year,Deaths
+World,OWID_WRL,1990,39.14250004
+World,OWID_WRL,1991,39.09347724
+World,OWID_WRL,1992,39.27893345
+World,OWID_WRL,1993,39.80555992
+World,OWID_WRL,1994,40.07663395
+World,OWID_WRL,1995,39.77853677
+World,OWID_WRL,1996,39.04256753
+World,OWID_WRL,1997,38.33098836
+World,OWID_WRL,1998,37.87133548
+World,OWID_WRL,1999,37.81110726
+World,OWID_WRL,2000,37.78289789
+World,OWID_WRL,2001,37.54425846
+World,OWID_WRL,2002,37.62682356
+World,OWID_WRL,2003,37.58505484
+World,OWID_WRL,2004,37.21306588
+World,OWID_WRL,2005,37.12701279
+World,OWID_WRL,2006,36.04812283
+World,OWID_WRL,2007,35.41295441
+World,OWID_WRL,2008,35.26214312
+World,OWID_WRL,2009,34.3923672
+World,OWID_WRL,2010,33.98974432
+World,OWID_WRL,2011,32.99806279
+World,OWID_WRL,2012,32.38941645
+World,OWID_WRL,2013,31.77400274
+World,OWID_WRL,2014,31.20606126
+World,OWID_WRL,2015,30.9234273
+World,OWID_WRL,2016,30.5660144
+World,OWID_WRL,2017,30.14665137
+World,OWID_WRL,2018,29.92356392
+World,OWID_WRL,2019,29.83992053
+World Bank High Income,,1990,39.96680848
+World Bank High Income,,1991,39.41710832
+World Bank High Income,,1992,38.69792251
+World Bank High Income,,1993,38.27037674
+World Bank High Income,,1994,37.76905491
+World Bank High Income,,1995,37.37249709
+World Bank High Income,,1996,36.5886423
+World Bank High Income,,1997,35.8898236
+World Bank High Income,,1998,35.57429386
+World Bank High Income,,1999,35.13855346
+World Bank High Income,,2000,34.38138219
+World Bank High Income,,2001,33.87266807
+World Bank High Income,,2002,33.5092844
+World Bank High Income,,2003,33.24011095
+World Bank High Income,,2004,32.47665131
+World Bank High Income,,2005,32.19334657
+World Bank High Income,,2006,31.61569547
+World Bank High Income,,2007,31.19125899
+World Bank High Income,,2008,30.71523792
+World Bank High Income,,2009,30.18982027
+World Bank High Income,,2010,29.5890799
+World Bank High Income,,2011,29.23322239
+World Bank High Income,,2012,28.73018693
+World Bank High Income,,2013,28.28570175
+World Bank High Income,,2014,27.84556466
+World Bank High Income,,2015,27.84765846
+World Bank High Income,,2016,27.63392599
+World Bank High Income,,2017,27.37388478
+World Bank High Income,,2018,27.32453708
+World Bank High Income,,2019,27.34381791
+World Bank Low Income,,1990,61.83242279
+World Bank Low Income,,1991,61.2926181
+World Bank Low Income,,1992,60.40695916
+World Bank Low Income,,1993,59.54302051
+World Bank Low Income,,1994,58.7412294
+World Bank Low Income,,1995,58.44851765
+World Bank Low Income,,1996,57.94696114
+World Bank Low Income,,1997,56.80152951
+World Bank Low Income,,1998,55.81853853
+World Bank Low Income,,1999,54.69893875
+World Bank Low Income,,2000,53.7057053
+World Bank Low Income,,2001,52.22629092
+World Bank Low Income,,2002,50.83848668
+World Bank Low Income,,2003,49.67627969
+World Bank Low Income,,2004,48.71051868
+World Bank Low Income,,2005,47.62575561
+World Bank Low Income,,2006,46.78435979
+World Bank Low Income,,2007,46.20406661
+World Bank Low Income,,2008,45.72570657
+World Bank Low Income,,2009,45.2827496
+World Bank Low Income,,2010,47.14858645
+World Bank Low Income,,2011,44.23069773
+World Bank Low Income,,2012,43.99887439
+World Bank Low Income,,2013,43.91919876
+World Bank Low Income,,2014,43.87621658
+World Bank Low Income,,2015,43.65737583
+World Bank Low Income,,2016,43.37910011
+World Bank Low Income,,2017,43.12902078
+World Bank Low Income,,2018,42.73407067
+World Bank Low Income,,2019,42.26965952
+World Bank Lower Middle Income,,1990,29.42784104
+World Bank Lower Middle Income,,1991,29.65206529
+World Bank Lower Middle Income,,1992,29.77314141
+World Bank Lower Middle Income,,1993,29.6948239
+World Bank Lower Middle Income,,1994,29.78840833
+World Bank Lower Middle Income,,1995,29.77566076
+World Bank Lower Middle Income,,1996,29.73761693
+World Bank Lower Middle Income,,1997,30.05347739
+World Bank Lower Middle Income,,1998,29.79402446
+World Bank Lower Middle Income,,1999,29.54286209
+World Bank Lower Middle Income,,2000,29.5706639
+World Bank Lower Middle Income,,2001,29.50168483
+World Bank Lower Middle Income,,2002,29.59188408
+World Bank Lower Middle Income,,2003,29.58136476
+World Bank Lower Middle Income,,2004,29.5168714
+World Bank Lower Middle Income,,2005,29.72551157
+World Bank Lower Middle Income,,2006,29.76268768
+World Bank Lower Middle Income,,2007,30.13470108
+World Bank Lower Middle Income,,2008,30.57893021
+World Bank Lower Middle Income,,2009,29.86039346
+World Bank Lower Middle Income,,2010,29.58532938
+World Bank Lower Middle Income,,2011,29.49017774
+World Bank Lower Middle Income,,2012,29.53628977
+World Bank Lower Middle Income,,2013,29.44946458
+World Bank Lower Middle Income,,2014,28.95433775
+World Bank Lower Middle Income,,2015,29.04141172
+World Bank Lower Middle Income,,2016,28.7731867
+World Bank Lower Middle Income,,2017,28.58284226
+World Bank Lower Middle Income,,2018,28.29481678
+World Bank Lower Middle Income,,2019,27.98761455
+World Bank Upper Middle Income,,1990,41.91108429
+World Bank Upper Middle Income,,1991,42.19512097
+World Bank Upper Middle Income,,1992,43.25363894
+World Bank Upper Middle Income,,1993,45.01564343
+World Bank Upper Middle Income,,1994,46.05951432
+World Bank Upper Middle Income,,1995,45.61001893
+World Bank Upper Middle Income,,1996,44.40502554
+World Bank Upper Middle Income,,1997,43.04833326
+World Bank Upper Middle Income,,1998,42.38276231
+World Bank Upper Middle Income,,1999,42.73819746
+World Bank Upper Middle Income,,2000,43.26619509
+World Bank Upper Middle Income,,2001,43.23350579
+World Bank Upper Middle Income,,2002,43.71481282
+World Bank Upper Middle Income,,2003,43.85957593
+World Bank Upper Middle Income,,2004,43.55950344
+World Bank Upper Middle Income,,2005,43.48508129
+World Bank Upper Middle Income,,2006,41.29135131
+World Bank Upper Middle Income,,2007,39.79310774
+World Bank Upper Middle Income,,2008,39.47500593
+World Bank Upper Middle Income,,2009,38.3220732
+World Bank Upper Middle Income,,2010,37.65076552
+World Bank Upper Middle Income,,2011,35.86920029
+World Bank Upper Middle Income,,2012,34.63712365
+World Bank Upper Middle Income,,2013,33.51365298
+World Bank Upper Middle Income,,2014,32.82998426
+World Bank Upper Middle Income,,2015,32.01325105
+World Bank Upper Middle Income,,2016,31.51004239
+World Bank Upper Middle Income,,2017,30.83862876
+World Bank Upper Middle Income,,2018,30.57642233
+World Bank Upper Middle Income,,2019,30.6084422
