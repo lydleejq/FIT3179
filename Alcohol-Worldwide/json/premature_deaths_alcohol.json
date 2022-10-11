@@ -56,8 +56,9 @@
         "gridColor":"#5c5c5c"
       },
       "legend":{
-        "orient":"top-right",
+        "orient":"bottom",
         "labelColor":"whitesmoke",
+        "labelFontSize": 10,
         "titleColor":"whitesmoke"
       }
     } 
