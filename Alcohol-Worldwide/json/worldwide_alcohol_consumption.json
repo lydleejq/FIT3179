@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",
     "padding": 5,
-    "width": 918,
+    "width": 800,
     "height": "container",
     "params": [
       {
