@@ -1,0 +1,841 @@
+,Entity,Code,Year,Risk,Number of cases
+0,World,OWID_WRL,1990,Outdoor air pollution,2254550
+1,World,OWID_WRL,1990,High systolic blood pressure,6787715
+2,World,OWID_WRL,1990,Diet high in sodium,1320338
+3,World,OWID_WRL,1990,Diet low in whole grains,1178222
+4,World,OWID_WRL,1990,Alcohol use,1639872
+5,World,OWID_WRL,1990,Diet low in fruits,795603
+6,World,OWID_WRL,1990,Unsafe water source,2442071
+7,World,OWID_WRL,1990,Secondhand smoke,1161963
+8,World,OWID_WRL,1990,Low birth weight,3033425
+9,World,OWID_WRL,1990,Child wasting,3430422
+10,World,OWID_WRL,1990,Unsafe sex,429992
+11,World,OWID_WRL,1990,Diet low in nuts and seeds,431074
+12,World,OWID_WRL,1990,Household air pollution from solid fuels,4358214
+13,World,OWID_WRL,1990,Diet low in vegetables,466447
+14,World,OWID_WRL,1990,Low physical activity,452167
+15,World,OWID_WRL,1990,Smoking,5868490
+16,World,OWID_WRL,1990,High fasting plasma glucose,2910089
+17,World,OWID_WRL,1990,Air pollution,6501226
+18,World,OWID_WRL,1990,High body-mass index,2198130
+19,World,OWID_WRL,1990,Unsafe sanitation,1836465
+20,World,OWID_WRL,1990,No access to handwashing facility,1200094
+21,World,OWID_WRL,1990,Drug use,235888
+22,World,OWID_WRL,1990,Low bone mineral density,207367
+23,World,OWID_WRL,1990,Vitamin A deficiency,207555
+24,World,OWID_WRL,1990,Child stunting,833449
+25,World,OWID_WRL,1990,Discontinued breastfeeding,33106
+26,World,OWID_WRL,1990,Non-exclusive breastfeeding,505470
+27,World,OWID_WRL,1990,Iron deficiency,73461
+28,World,OWID_WRL,1991,Outdoor air pollution,2297976
+29,World,OWID_WRL,1991,High systolic blood pressure,6888724
+30,World,OWID_WRL,1991,Diet high in sodium,1331430
+31,World,OWID_WRL,1991,Diet low in whole grains,1197636
+32,World,OWID_WRL,1991,Alcohol use,1676081
+33,World,OWID_WRL,1991,Diet low in fruits,805993
+34,World,OWID_WRL,1991,Unsafe water source,2450944
+35,World,OWID_WRL,1991,Secondhand smoke,1165940
+36,World,OWID_WRL,1991,Low birth weight,2997799
+37,World,OWID_WRL,1991,Child wasting,3357212
+38,World,OWID_WRL,1991,Unsafe sex,500512
+39,World,OWID_WRL,1991,Diet low in nuts and seeds,436096
+40,World,OWID_WRL,1991,Household air pollution from solid fuels,4320449
+41,World,OWID_WRL,1991,Diet low in vegetables,463371
+42,World,OWID_WRL,1991,Low physical activity,460918
+43,World,OWID_WRL,1991,Smoking,5969962
+44,World,OWID_WRL,1991,High fasting plasma glucose,2980426
+45,World,OWID_WRL,1991,Air pollution,6504209
+46,World,OWID_WRL,1991,High body-mass index,2257566
+47,World,OWID_WRL,1991,Unsafe sanitation,1842275
+48,World,OWID_WRL,1991,No access to handwashing facility,1200349
+49,World,OWID_WRL,1991,Drug use,252439
+50,World,OWID_WRL,1991,Low bone mineral density,211921
+51,World,OWID_WRL,1991,Vitamin A deficiency,203552
+52,World,OWID_WRL,1991,Child stunting,817068
+53,World,OWID_WRL,1991,Discontinued breastfeeding,32318
+54,World,OWID_WRL,1991,Non-exclusive breastfeeding,497187
+55,World,OWID_WRL,1991,Iron deficiency,72379
+56,World,OWID_WRL,1992,Outdoor air pollution,2356222
+57,World,OWID_WRL,1992,High systolic blood pressure,7023442
+58,World,OWID_WRL,1992,Diet high in sodium,1348867
+59,World,OWID_WRL,1992,Diet low in whole grains,1223711
+60,World,OWID_WRL,1992,Alcohol use,1723426
+61,World,OWID_WRL,1992,Diet low in fruits,821077
+62,World,OWID_WRL,1992,Unsafe water source,2425768
+63,World,OWID_WRL,1992,Secondhand smoke,1173047
+64,World,OWID_WRL,1992,Low birth weight,2967333
+65,World,OWID_WRL,1992,Child wasting,3258024
+66,World,OWID_WRL,1992,Unsafe sex,584801
+67,World,OWID_WRL,1992,Diet low in nuts and seeds,444219
+68,World,OWID_WRL,1992,Household air pollution from solid fuels,4289112
+69,World,OWID_WRL,1992,Diet low in vegetables,462741
+70,World,OWID_WRL,1992,Low physical activity,472631
+71,World,OWID_WRL,1992,Smoking,6091137
+72,World,OWID_WRL,1992,High fasting plasma glucose,3067244
+73,World,OWID_WRL,1992,Air pollution,6526572
+74,World,OWID_WRL,1992,High body-mass index,2336617
+75,World,OWID_WRL,1992,Unsafe sanitation,1822787
+76,World,OWID_WRL,1992,No access to handwashing facility,1190922
+77,World,OWID_WRL,1992,Drug use,269332
+78,World,OWID_WRL,1992,Low bone mineral density,216471
+79,World,OWID_WRL,1992,Vitamin A deficiency,198337
+80,World,OWID_WRL,1992,Child stunting,796503
+81,World,OWID_WRL,1992,Discontinued breastfeeding,30503
+82,World,OWID_WRL,1992,Non-exclusive breastfeeding,478094
+83,World,OWID_WRL,1992,Iron deficiency,72503
+84,World,OWID_WRL,1993,Outdoor air pollution,2436824
+85,World,OWID_WRL,1993,High systolic blood pressure,7240558
+86,World,OWID_WRL,1993,Diet high in sodium,1372510
+87,World,OWID_WRL,1993,Diet low in whole grains,1271470
+88,World,OWID_WRL,1993,Alcohol use,1787249
+89,World,OWID_WRL,1993,Diet low in fruits,844231
+90,World,OWID_WRL,1993,Unsafe water source,2361330
+91,World,OWID_WRL,1993,Secondhand smoke,1183326
+92,World,OWID_WRL,1993,Low birth weight,2931247
+93,World,OWID_WRL,1993,Child wasting,3158371
+94,World,OWID_WRL,1993,Unsafe sex,680690
+95,World,OWID_WRL,1993,Diet low in nuts and seeds,460965
+96,World,OWID_WRL,1993,Household air pollution from solid fuels,4241702
+97,World,OWID_WRL,1993,Diet low in vegetables,465335
+98,World,OWID_WRL,1993,Low physical activity,491233
+99,World,OWID_WRL,1993,Smoking,6257467
+100,World,OWID_WRL,1993,High fasting plasma glucose,3180096
+101,World,OWID_WRL,1993,Air pollution,6556725
+102,World,OWID_WRL,1993,High body-mass index,2454396
+103,World,OWID_WRL,1993,Unsafe sanitation,1769353
+104,World,OWID_WRL,1993,No access to handwashing facility,1162488
+105,World,OWID_WRL,1993,Drug use,289135
+106,World,OWID_WRL,1993,Low bone mineral density,223118
+107,World,OWID_WRL,1993,Vitamin A deficiency,189703
+108,World,OWID_WRL,1993,Child stunting,771676
+109,World,OWID_WRL,1993,Discontinued breastfeeding,28905
+110,World,OWID_WRL,1993,Non-exclusive breastfeeding,461114
+111,World,OWID_WRL,1993,Iron deficiency,70802
+112,World,OWID_WRL,1994,Outdoor air pollution,2500765
+113,World,OWID_WRL,1994,High systolic blood pressure,7378238
+114,World,OWID_WRL,1994,Diet high in sodium,1383664
+115,World,OWID_WRL,1994,Diet low in whole grains,1301409
+116,World,OWID_WRL,1994,Alcohol use,1841377
+117,World,OWID_WRL,1994,Diet low in fruits,859534
+118,World,OWID_WRL,1994,Unsafe water source,2310205
+119,World,OWID_WRL,1994,Secondhand smoke,1184536
+120,World,OWID_WRL,1994,Low birth weight,2893465
+121,World,OWID_WRL,1994,Child wasting,3074159
+122,World,OWID_WRL,1994,Unsafe sex,787180
+123,World,OWID_WRL,1994,Diet low in nuts and seeds,470753
+124,World,OWID_WRL,1994,Household air pollution from solid fuels,4180438
+125,World,OWID_WRL,1994,Diet low in vegetables,464594
+126,World,OWID_WRL,1994,Low physical activity,503301
+127,World,OWID_WRL,1994,Smoking,6363333
+128,World,OWID_WRL,1994,High fasting plasma glucose,3267456
+129,World,OWID_WRL,1994,Air pollution,6557387
+130,World,OWID_WRL,1994,High body-mass index,2547539
+131,World,OWID_WRL,1994,Unsafe sanitation,1725089
+132,World,OWID_WRL,1994,No access to handwashing facility,1141067
+133,World,OWID_WRL,1994,Drug use,309634
+134,World,OWID_WRL,1994,Low bone mineral density,227825
+135,World,OWID_WRL,1994,Vitamin A deficiency,183165
+136,World,OWID_WRL,1994,Child stunting,750689
+137,World,OWID_WRL,1994,Discontinued breastfeeding,27594
+138,World,OWID_WRL,1994,Non-exclusive breastfeeding,445705
+139,World,OWID_WRL,1994,Iron deficiency,70291
+140,World,OWID_WRL,1995,Outdoor air pollution,2544508
+141,World,OWID_WRL,1995,High systolic blood pressure,7444400
+142,World,OWID_WRL,1995,Diet high in sodium,1388701
+143,World,OWID_WRL,1995,Diet low in whole grains,1311140
+144,World,OWID_WRL,1995,Alcohol use,1866761
+145,World,OWID_WRL,1995,Diet low in fruits,865100
+146,World,OWID_WRL,1995,Unsafe water source,2253179
+147,World,OWID_WRL,1995,Secondhand smoke,1178299
+148,World,OWID_WRL,1995,Low birth weight,2861230
+149,World,OWID_WRL,1995,Child wasting,3077100
+150,World,OWID_WRL,1995,Unsafe sex,895138
+151,World,OWID_WRL,1995,Diet low in nuts and seeds,469698
+152,World,OWID_WRL,1995,Household air pollution from solid fuels,4115012
+153,World,OWID_WRL,1995,Diet low in vegetables,461745
+154,World,OWID_WRL,1995,Low physical activity,512355
+155,World,OWID_WRL,1995,Smoking,6424367
+156,World,OWID_WRL,1995,High fasting plasma glucose,3337764
+157,World,OWID_WRL,1995,Air pollution,6537356
+158,World,OWID_WRL,1995,High body-mass index,2602238
+159,World,OWID_WRL,1995,Unsafe sanitation,1678060
+160,World,OWID_WRL,1995,No access to handwashing facility,1118113
+161,World,OWID_WRL,1995,Drug use,326356
+162,World,OWID_WRL,1995,Low bone mineral density,231800
+163,World,OWID_WRL,1995,Vitamin A deficiency,177588
+164,World,OWID_WRL,1995,Child stunting,729488
+165,World,OWID_WRL,1995,Discontinued breastfeeding,26246
+166,World,OWID_WRL,1995,Non-exclusive breastfeeding,427444
+167,World,OWID_WRL,1995,Iron deficiency,69321
+168,World,OWID_WRL,1996,Outdoor air pollution,2587941
+169,World,OWID_WRL,1996,High systolic blood pressure,7499709
+170,World,OWID_WRL,1996,Diet high in sodium,1391525
+171,World,OWID_WRL,1996,Diet low in whole grains,1313663
+172,World,OWID_WRL,1996,Alcohol use,1870993
+173,World,OWID_WRL,1996,Diet low in fruits,870447
+174,World,OWID_WRL,1996,Unsafe water source,2203646
+175,World,OWID_WRL,1996,Secondhand smoke,1171342
+176,World,OWID_WRL,1996,Low birth weight,2817587
+177,World,OWID_WRL,1996,Child wasting,2953080
+178,World,OWID_WRL,1996,Unsafe sex,993969
+179,World,OWID_WRL,1996,Diet low in nuts and seeds,466515
+180,World,OWID_WRL,1996,Household air pollution from solid fuels,4061430
+181,World,OWID_WRL,1996,Diet low in vegetables,458994
+182,World,OWID_WRL,1996,Low physical activity,518808
+183,World,OWID_WRL,1996,Smoking,6455375
+184,World,OWID_WRL,1996,High fasting plasma glucose,3410876
+185,World,OWID_WRL,1996,Air pollution,6528219
+186,World,OWID_WRL,1996,High body-mass index,2646781
+187,World,OWID_WRL,1996,Unsafe sanitation,1635097
+188,World,OWID_WRL,1996,No access to handwashing facility,1095440
+189,World,OWID_WRL,1996,Drug use,337405
+190,World,OWID_WRL,1996,Low bone mineral density,236374
+191,World,OWID_WRL,1996,Vitamin A deficiency,171320
+192,World,OWID_WRL,1996,Child stunting,703713
+193,World,OWID_WRL,1996,Discontinued breastfeeding,25050
+194,World,OWID_WRL,1996,Non-exclusive breastfeeding,409782
+195,World,OWID_WRL,1996,Iron deficiency,68509
+196,World,OWID_WRL,1997,Outdoor air pollution,2657868
+197,World,OWID_WRL,1997,High systolic blood pressure,7579361
+198,World,OWID_WRL,1997,Diet high in sodium,1394395
+199,World,OWID_WRL,1997,Diet low in whole grains,1320627
+200,World,OWID_WRL,1997,Alcohol use,1876174
+201,World,OWID_WRL,1997,Diet low in fruits,879645
+202,World,OWID_WRL,1997,Unsafe water source,2171865
+203,World,OWID_WRL,1997,Secondhand smoke,1165820
+204,World,OWID_WRL,1997,Low birth weight,2782771
+205,World,OWID_WRL,1997,Child wasting,2853073
+206,World,OWID_WRL,1997,Unsafe sex,1087931
+207,World,OWID_WRL,1997,Diet low in nuts and seeds,466458
+208,World,OWID_WRL,1997,Household air pollution from solid fuels,4017097
+209,World,OWID_WRL,1997,Diet low in vegetables,457326
+210,World,OWID_WRL,1997,Low physical activity,526469
+211,World,OWID_WRL,1997,Smoking,6499984
+212,World,OWID_WRL,1997,High fasting plasma glucose,3501680
+213,World,OWID_WRL,1997,Air pollution,6547192
+214,World,OWID_WRL,1997,High body-mass index,2704438
+215,World,OWID_WRL,1997,Unsafe sanitation,1605109
+216,World,OWID_WRL,1997,No access to handwashing facility,1079871
+217,World,OWID_WRL,1997,Drug use,345395
+218,World,OWID_WRL,1997,Low bone mineral density,242189
+219,World,OWID_WRL,1997,Vitamin A deficiency,164328
+220,World,OWID_WRL,1997,Child stunting,678544
+221,World,OWID_WRL,1997,Discontinued breastfeeding,24099
+222,World,OWID_WRL,1997,Non-exclusive breastfeeding,392772
+223,World,OWID_WRL,1997,Iron deficiency,68874
+224,World,OWID_WRL,1998,Outdoor air pollution,2718227
+225,World,OWID_WRL,1998,High systolic blood pressure,7653805
+226,World,OWID_WRL,1998,Diet high in sodium,1397467
+227,World,OWID_WRL,1998,Diet low in whole grains,1328165
+228,World,OWID_WRL,1998,Alcohol use,1894286
+229,World,OWID_WRL,1998,Diet low in fruits,883807
+230,World,OWID_WRL,1998,Unsafe water source,2140947
+231,World,OWID_WRL,1998,Secondhand smoke,1156210
+232,World,OWID_WRL,1998,Low birth weight,2749957
+233,World,OWID_WRL,1998,Child wasting,2754508
+234,World,OWID_WRL,1998,Unsafe sex,1193919
+235,World,OWID_WRL,1998,Diet low in nuts and seeds,463982
+236,World,OWID_WRL,1998,Household air pollution from solid fuels,3937041
+237,World,OWID_WRL,1998,Diet low in vegetables,453044
+238,World,OWID_WRL,1998,Low physical activity,535972
+239,World,OWID_WRL,1998,Smoking,6540882
+240,World,OWID_WRL,1998,High fasting plasma glucose,3592685
+241,World,OWID_WRL,1998,Air pollution,6525727
+242,World,OWID_WRL,1998,High body-mass index,2767762
+243,World,OWID_WRL,1998,Unsafe sanitation,1576522
+244,World,OWID_WRL,1998,No access to handwashing facility,1062523
+245,World,OWID_WRL,1998,Drug use,357229
+246,World,OWID_WRL,1998,Low bone mineral density,247539
+247,World,OWID_WRL,1998,Vitamin A deficiency,158344
+248,World,OWID_WRL,1998,Child stunting,653014
+249,World,OWID_WRL,1998,Discontinued breastfeeding,23349
+250,World,OWID_WRL,1998,Non-exclusive breastfeeding,378472
+251,World,OWID_WRL,1998,Iron deficiency,68577
+252,World,OWID_WRL,1999,Outdoor air pollution,2809566
+253,World,OWID_WRL,1999,High systolic blood pressure,7805180
+254,World,OWID_WRL,1999,Diet high in sodium,1418036
+255,World,OWID_WRL,1999,Diet low in whole grains,1354556
+256,World,OWID_WRL,1999,Alcohol use,1935617
+257,World,OWID_WRL,1999,Diet low in fruits,895248
+258,World,OWID_WRL,1999,Unsafe water source,2099432
+259,World,OWID_WRL,1999,Secondhand smoke,1154278
+260,World,OWID_WRL,1999,Low birth weight,2713039
+261,World,OWID_WRL,1999,Child wasting,2653961
+262,World,OWID_WRL,1999,Unsafe sex,1306272
+263,World,OWID_WRL,1999,Diet low in nuts and seeds,469409
+264,World,OWID_WRL,1999,Household air pollution from solid fuels,3848916
+265,World,OWID_WRL,1999,Diet low in vegetables,451272
+266,World,OWID_WRL,1999,Low physical activity,548853
+267,World,OWID_WRL,1999,Smoking,6619859
+268,World,OWID_WRL,1999,High fasting plasma glucose,3702770
+269,World,OWID_WRL,1999,Air pollution,6522139
+270,World,OWID_WRL,1999,High body-mass index,2868905
+271,World,OWID_WRL,1999,Unsafe sanitation,1539932
+272,World,OWID_WRL,1999,No access to handwashing facility,1043004
+273,World,OWID_WRL,1999,Drug use,373305
+274,World,OWID_WRL,1999,Low bone mineral density,253735
+275,World,OWID_WRL,1999,Vitamin A deficiency,153903
+276,World,OWID_WRL,1999,Child stunting,626194
+277,World,OWID_WRL,1999,Discontinued breastfeeding,22398
+278,World,OWID_WRL,1999,Non-exclusive breastfeeding,364995
+279,World,OWID_WRL,1999,Iron deficiency,68367
+280,World,OWID_WRL,2000,Outdoor air pollution,2878034
+281,World,OWID_WRL,2000,High systolic blood pressure,7941549
+282,World,OWID_WRL,2000,Diet high in sodium,1445664
+283,World,OWID_WRL,2000,Diet low in whole grains,1375420
+284,World,OWID_WRL,2000,Alcohol use,1978982
+285,World,OWID_WRL,2000,Diet low in fruits,910169
+286,World,OWID_WRL,2000,Unsafe water source,2049815
+287,World,OWID_WRL,2000,Secondhand smoke,1155066
+288,World,OWID_WRL,2000,Low birth weight,2675569
+289,World,OWID_WRL,2000,Child wasting,2542085
+290,World,OWID_WRL,2000,Unsafe sex,1407331
+291,World,OWID_WRL,2000,Diet low in nuts and seeds,474771
+292,World,OWID_WRL,2000,Household air pollution from solid fuels,3800556
+293,World,OWID_WRL,2000,Diet low in vegetables,451412
+294,World,OWID_WRL,2000,Low physical activity,558137
+295,World,OWID_WRL,2000,Smoking,6711004
+296,World,OWID_WRL,2000,High fasting plasma glucose,3813228
+297,World,OWID_WRL,2000,Air pollution,6548091
+298,World,OWID_WRL,2000,High body-mass index,2950660
+299,World,OWID_WRL,2000,Unsafe sanitation,1496738
+300,World,OWID_WRL,2000,No access to handwashing facility,1021163
+301,World,OWID_WRL,2000,Drug use,387019
+302,World,OWID_WRL,2000,Low bone mineral density,261209
+303,World,OWID_WRL,2000,Vitamin A deficiency,146252
+304,World,OWID_WRL,2000,Child stunting,596761
+305,World,OWID_WRL,2000,Discontinued breastfeeding,20876
+306,World,OWID_WRL,2000,Non-exclusive breastfeeding,351716
+307,World,OWID_WRL,2000,Iron deficiency,67827
+308,World,OWID_WRL,2001,Outdoor air pollution,2943093
+309,World,OWID_WRL,2001,High systolic blood pressure,8075036
+310,World,OWID_WRL,2001,Diet high in sodium,1466830
+311,World,OWID_WRL,2001,Diet low in whole grains,1398632
+312,World,OWID_WRL,2001,Alcohol use,2011934
+313,World,OWID_WRL,2001,Diet low in fruits,922031
+314,World,OWID_WRL,2001,Unsafe water source,1994001
+315,World,OWID_WRL,2001,Secondhand smoke,1154457
+316,World,OWID_WRL,2001,Low birth weight,2636288
+317,World,OWID_WRL,2001,Child wasting,2428393
+318,World,OWID_WRL,2001,Unsafe sex,1496096
+319,World,OWID_WRL,2001,Diet low in nuts and seeds,481234
+320,World,OWID_WRL,2001,Household air pollution from solid fuels,3747985
+321,World,OWID_WRL,2001,Diet low in vegetables,452219
+322,World,OWID_WRL,2001,Low physical activity,568285
+323,World,OWID_WRL,2001,Smoking,6767584
+324,World,OWID_WRL,2001,High fasting plasma glucose,3945096
+325,World,OWID_WRL,2001,Air pollution,6562169
+326,World,OWID_WRL,2001,High body-mass index,3034906
+327,World,OWID_WRL,2001,Unsafe sanitation,1447407
+328,World,OWID_WRL,2001,No access to handwashing facility,993947
+329,World,OWID_WRL,2001,Drug use,392718
+330,World,OWID_WRL,2001,Low bone mineral density,269611
+331,World,OWID_WRL,2001,Vitamin A deficiency,136990
+332,World,OWID_WRL,2001,Child stunting,564423
+333,World,OWID_WRL,2001,Discontinued breastfeeding,19328
+334,World,OWID_WRL,2001,Non-exclusive breastfeeding,338310
+335,World,OWID_WRL,2001,Iron deficiency,66551
+336,World,OWID_WRL,2002,Outdoor air pollution,3019163
+337,World,OWID_WRL,2002,High systolic blood pressure,8259230
+338,World,OWID_WRL,2002,Diet high in sodium,1500028
+339,World,OWID_WRL,2002,Diet low in whole grains,1432245
+340,World,OWID_WRL,2002,Alcohol use,2062868
+341,World,OWID_WRL,2002,Diet low in fruits,936760
+342,World,OWID_WRL,2002,Unsafe water source,1934978
+343,World,OWID_WRL,2002,Secondhand smoke,1159898
+344,World,OWID_WRL,2002,Low birth weight,2607153
+345,World,OWID_WRL,2002,Child wasting,2325819
+346,World,OWID_WRL,2002,Unsafe sex,1572619
+347,World,OWID_WRL,2002,Diet low in nuts and seeds,491068
+348,World,OWID_WRL,2002,Household air pollution from solid fuels,3702531
+349,World,OWID_WRL,2002,Diet low in vegetables,454406
+350,World,OWID_WRL,2002,Low physical activity,580620
+351,World,OWID_WRL,2002,Smoking,6852641
+352,World,OWID_WRL,2002,High fasting plasma glucose,4130702
+353,World,OWID_WRL,2002,Air pollution,6593796
+354,World,OWID_WRL,2002,High body-mass index,3148429
+355,World,OWID_WRL,2002,Unsafe sanitation,1396229
+356,World,OWID_WRL,2002,No access to handwashing facility,968065
+357,World,OWID_WRL,2002,Drug use,397221
+358,World,OWID_WRL,2002,Low bone mineral density,280434
+359,World,OWID_WRL,2002,Vitamin A deficiency,126978
+360,World,OWID_WRL,2002,Child stunting,533555
+361,World,OWID_WRL,2002,Discontinued breastfeeding,18186
+362,World,OWID_WRL,2002,Non-exclusive breastfeeding,325524
+363,World,OWID_WRL,2002,Iron deficiency,64757
+364,World,OWID_WRL,2003,Outdoor air pollution,3091592
+365,World,OWID_WRL,2003,High systolic blood pressure,8379687
+366,World,OWID_WRL,2003,Diet high in sodium,1524749
+367,World,OWID_WRL,2003,Diet low in whole grains,1455590
+368,World,OWID_WRL,2003,Alcohol use,2108453
+369,World,OWID_WRL,2003,Diet low in fruits,942517
+370,World,OWID_WRL,2003,Unsafe water source,1873268
+371,World,OWID_WRL,2003,Secondhand smoke,1159365
+372,World,OWID_WRL,2003,Low birth weight,2577469
+373,World,OWID_WRL,2003,Child wasting,2151535
+374,World,OWID_WRL,2003,Unsafe sex,1631506
+375,World,OWID_WRL,2003,Diet low in nuts and seeds,496161
+376,World,OWID_WRL,2003,Household air pollution from solid fuels,3631724
+377,World,OWID_WRL,2003,Diet low in vegetables,452385
+378,World,OWID_WRL,2003,Low physical activity,589603
+379,World,OWID_WRL,2003,Smoking,6906395
+380,World,OWID_WRL,2003,High fasting plasma glucose,4304177
+381,World,OWID_WRL,2003,Air pollution,6588013
+382,World,OWID_WRL,2003,High body-mass index,3246284
+383,World,OWID_WRL,2003,Unsafe sanitation,1345287
+384,World,OWID_WRL,2003,No access to handwashing facility,942330
+385,World,OWID_WRL,2003,Drug use,401105
+386,World,OWID_WRL,2003,Low bone mineral density,291242
+387,World,OWID_WRL,2003,Vitamin A deficiency,116576
+388,World,OWID_WRL,2003,Child stunting,503048
+389,World,OWID_WRL,2003,Discontinued breastfeeding,17308
+390,World,OWID_WRL,2003,Non-exclusive breastfeeding,313891
+391,World,OWID_WRL,2003,Iron deficiency,62770
+392,World,OWID_WRL,2004,Outdoor air pollution,3139873
+393,World,OWID_WRL,2004,High systolic blood pressure,8399163
+394,World,OWID_WRL,2004,Diet high in sodium,1539207
+395,World,OWID_WRL,2004,Diet low in whole grains,1457699
+396,World,OWID_WRL,2004,Alcohol use,2138328
+397,World,OWID_WRL,2004,Diet low in fruits,937529
+398,World,OWID_WRL,2004,Unsafe water source,1805631
+399,World,OWID_WRL,2004,Secondhand smoke,1152008
+400,World,OWID_WRL,2004,Low birth weight,2543991
+401,World,OWID_WRL,2004,Child wasting,2056186
+402,World,OWID_WRL,2004,Unsafe sex,1664813
+403,World,OWID_WRL,2004,Diet low in nuts and seeds,492387
+404,World,OWID_WRL,2004,Household air pollution from solid fuels,3539514
+405,World,OWID_WRL,2004,Diet low in vegetables,444838
+406,World,OWID_WRL,2004,Low physical activity,591308
+407,World,OWID_WRL,2004,Smoking,6900363
+408,World,OWID_WRL,2004,High fasting plasma glucose,4415124
+409,World,OWID_WRL,2004,Air pollution,6541469
+410,World,OWID_WRL,2004,High body-mass index,3297350
+411,World,OWID_WRL,2004,Unsafe sanitation,1289973
+412,World,OWID_WRL,2004,No access to handwashing facility,914206
+413,World,OWID_WRL,2004,Drug use,405219
+414,World,OWID_WRL,2004,Low bone mineral density,298770
+415,World,OWID_WRL,2004,Vitamin A deficiency,106921
+416,World,OWID_WRL,2004,Child stunting,474029
+417,World,OWID_WRL,2004,Discontinued breastfeeding,16418
+418,World,OWID_WRL,2004,Non-exclusive breastfeeding,302616
+419,World,OWID_WRL,2004,Iron deficiency,61561
+420,World,OWID_WRL,2005,Outdoor air pollution,3214652
+421,World,OWID_WRL,2005,High systolic blood pressure,8549944
+422,World,OWID_WRL,2005,Diet high in sodium,1556960
+423,World,OWID_WRL,2005,Diet low in whole grains,1485085
+424,World,OWID_WRL,2005,Alcohol use,2184611
+425,World,OWID_WRL,2005,Diet low in fruits,946126
+426,World,OWID_WRL,2005,Unsafe water source,1767662
+427,World,OWID_WRL,2005,Secondhand smoke,1155248
+428,World,OWID_WRL,2005,Low birth weight,2506095
+429,World,OWID_WRL,2005,Child wasting,1968105
+430,World,OWID_WRL,2005,Unsafe sex,1660755
+431,World,OWID_WRL,2005,Diet low in nuts and seeds,502569
+432,World,OWID_WRL,2005,Household air pollution from solid fuels,3479179
+433,World,OWID_WRL,2005,Diet low in vegetables,447857
+434,World,OWID_WRL,2005,Low physical activity,604191
+435,World,OWID_WRL,2005,Smoking,6955588
+436,World,OWID_WRL,2005,High fasting plasma glucose,4562010
+437,World,OWID_WRL,2005,Air pollution,6556779
+438,World,OWID_WRL,2005,High body-mass index,3394896
+439,World,OWID_WRL,2005,Unsafe sanitation,1258381
+440,World,OWID_WRL,2005,No access to handwashing facility,897688
+441,World,OWID_WRL,2005,Drug use,416769
+442,World,OWID_WRL,2005,Low bone mineral density,311016
+443,World,OWID_WRL,2005,Vitamin A deficiency,95847
+444,World,OWID_WRL,2005,Child stunting,445544
+445,World,OWID_WRL,2005,Discontinued breastfeeding,15560
+446,World,OWID_WRL,2005,Non-exclusive breastfeeding,291329
+447,World,OWID_WRL,2005,Iron deficiency,61119
+448,World,OWID_WRL,2006,Outdoor air pollution,3268686
+449,World,OWID_WRL,2006,High systolic blood pressure,8575737
+450,World,OWID_WRL,2006,Diet high in sodium,1546630
+451,World,OWID_WRL,2006,Diet low in whole grains,1484696
+452,World,OWID_WRL,2006,Alcohol use,2171666
+453,World,OWID_WRL,2006,Diet low in fruits,938737
+454,World,OWID_WRL,2006,Unsafe water source,1752216
+455,World,OWID_WRL,2006,Secondhand smoke,1143362
+456,World,OWID_WRL,2006,Low birth weight,2464693
+457,World,OWID_WRL,2006,Child wasting,1885927
+458,World,OWID_WRL,2006,Unsafe sex,1614674
+459,World,OWID_WRL,2006,Diet low in nuts and seeds,501828
+460,World,OWID_WRL,2006,Household air pollution from solid fuels,3400650
+461,World,OWID_WRL,2006,Diet low in vegetables,449660
+462,World,OWID_WRL,2006,Low physical activity,612110
+463,World,OWID_WRL,2006,Smoking,6884440
+464,World,OWID_WRL,2006,High fasting plasma glucose,4628394
+465,World,OWID_WRL,2006,Air pollution,6528813
+466,World,OWID_WRL,2006,High body-mass index,3435290
+467,World,OWID_WRL,2006,Unsafe sanitation,1243439
+468,World,OWID_WRL,2006,No access to handwashing facility,889971
+469,World,OWID_WRL,2006,Drug use,417386
+470,World,OWID_WRL,2006,Low bone mineral density,319114
+471,World,OWID_WRL,2006,Vitamin A deficiency,83528
+472,World,OWID_WRL,2006,Child stunting,413097
+473,World,OWID_WRL,2006,Discontinued breastfeeding,14967
+474,World,OWID_WRL,2006,Non-exclusive breastfeeding,281709
+475,World,OWID_WRL,2006,Iron deficiency,59778
+476,World,OWID_WRL,2007,Outdoor air pollution,3362663
+477,World,OWID_WRL,2007,High systolic blood pressure,8679507
+478,World,OWID_WRL,2007,Diet high in sodium,1555051
+479,World,OWID_WRL,2007,Diet low in whole grains,1498942
+480,World,OWID_WRL,2007,Alcohol use,2184676
+481,World,OWID_WRL,2007,Diet low in fruits,938621
+482,World,OWID_WRL,2007,Unsafe water source,1722904
+483,World,OWID_WRL,2007,Secondhand smoke,1139416
+484,World,OWID_WRL,2007,Low birth weight,2420395
+485,World,OWID_WRL,2007,Child wasting,1801144
+486,World,OWID_WRL,2007,Unsafe sex,1539272
+487,World,OWID_WRL,2007,Diet low in nuts and seeds,506273
+488,World,OWID_WRL,2007,Household air pollution from solid fuels,3312718
+489,World,OWID_WRL,2007,Diet low in vegetables,452471
+490,World,OWID_WRL,2007,Low physical activity,624275
+491,World,OWID_WRL,2007,Smoking,6888848
+492,World,OWID_WRL,2007,High fasting plasma glucose,4721782
+493,World,OWID_WRL,2007,Air pollution,6527585
+494,World,OWID_WRL,2007,High body-mass index,3509284
+495,World,OWID_WRL,2007,Unsafe sanitation,1219401
+496,World,OWID_WRL,2007,No access to handwashing facility,875744
+497,World,OWID_WRL,2007,Drug use,419033
+498,World,OWID_WRL,2007,Low bone mineral density,327731
+499,World,OWID_WRL,2007,Vitamin A deficiency,74708
+500,World,OWID_WRL,2007,Child stunting,384634
+501,World,OWID_WRL,2007,Discontinued breastfeeding,14610
+502,World,OWID_WRL,2007,Non-exclusive breastfeeding,270177
+503,World,OWID_WRL,2007,Iron deficiency,57837
+504,World,OWID_WRL,2008,Outdoor air pollution,3494083
+505,World,OWID_WRL,2008,High systolic blood pressure,8873304
+506,World,OWID_WRL,2008,Diet high in sodium,1585060
+507,World,OWID_WRL,2008,Diet low in whole grains,1527980
+508,World,OWID_WRL,2008,Alcohol use,2228186
+509,World,OWID_WRL,2008,Diet low in fruits,946046
+510,World,OWID_WRL,2008,Unsafe water source,1694361
+511,World,OWID_WRL,2008,Secondhand smoke,1147641
+512,World,OWID_WRL,2008,Low birth weight,2379196
+513,World,OWID_WRL,2008,Child wasting,1722959
+514,World,OWID_WRL,2008,Unsafe sex,1453671
+515,World,OWID_WRL,2008,Diet low in nuts and seeds,514816
+516,World,OWID_WRL,2008,Household air pollution from solid fuels,3236480
+517,World,OWID_WRL,2008,Diet low in vegetables,458092
+518,World,OWID_WRL,2008,Low physical activity,642703
+519,World,OWID_WRL,2008,Smoking,6965733
+520,World,OWID_WRL,2008,High fasting plasma glucose,4855359
+521,World,OWID_WRL,2008,Air pollution,6576417
+522,World,OWID_WRL,2008,High body-mass index,3618289
+523,World,OWID_WRL,2008,Unsafe sanitation,1194680
+524,World,OWID_WRL,2008,No access to handwashing facility,860090
+525,World,OWID_WRL,2008,Drug use,423060
+526,World,OWID_WRL,2008,Low bone mineral density,337135
+527,World,OWID_WRL,2008,Vitamin A deficiency,69096
+528,World,OWID_WRL,2008,Child stunting,360204
+529,World,OWID_WRL,2008,Discontinued breastfeeding,14523
+530,World,OWID_WRL,2008,Non-exclusive breastfeeding,259064
+531,World,OWID_WRL,2008,Iron deficiency,56450
+532,World,OWID_WRL,2009,Outdoor air pollution,3570795
+533,World,OWID_WRL,2009,High systolic blood pressure,8990223
+534,World,OWID_WRL,2009,Diet high in sodium,1609279
+535,World,OWID_WRL,2009,Diet low in whole grains,1540396
+536,World,OWID_WRL,2009,Alcohol use,2223073
+537,World,OWID_WRL,2009,Diet low in fruits,942559
+538,World,OWID_WRL,2009,Unsafe water source,1635490
+539,World,OWID_WRL,2009,Secondhand smoke,1147592
+540,World,OWID_WRL,2009,Low birth weight,2332096
+541,World,OWID_WRL,2009,Child wasting,1646902
+542,World,OWID_WRL,2009,Unsafe sex,1374596
+543,World,OWID_WRL,2009,Diet low in nuts and seeds,514550
+544,World,OWID_WRL,2009,Household air pollution from solid fuels,3128263
+545,World,OWID_WRL,2009,Diet low in vegetables,458585
+546,World,OWID_WRL,2009,Low physical activity,655754
+547,World,OWID_WRL,2009,Smoking,6975911
+548,World,OWID_WRL,2009,High fasting plasma glucose,4947201
+549,World,OWID_WRL,2009,Air pollution,6554957
+550,World,OWID_WRL,2009,High body-mass index,3694600
+551,World,OWID_WRL,2009,Unsafe sanitation,1147395
+552,World,OWID_WRL,2009,No access to handwashing facility,832773
+553,World,OWID_WRL,2009,Drug use,419344
+554,World,OWID_WRL,2009,Low bone mineral density,339421
+555,World,OWID_WRL,2009,Vitamin A deficiency,63770
+556,World,OWID_WRL,2009,Child stunting,336831
+557,World,OWID_WRL,2009,Discontinued breastfeeding,14290
+558,World,OWID_WRL,2009,Non-exclusive breastfeeding,247990
+559,World,OWID_WRL,2009,Iron deficiency,55249
+560,World,OWID_WRL,2010,Outdoor air pollution,3673797
+561,World,OWID_WRL,2010,High systolic blood pressure,9181355
+562,World,OWID_WRL,2010,Diet high in sodium,1644633
+563,World,OWID_WRL,2010,Diet low in whole grains,1569687
+564,World,OWID_WRL,2010,Alcohol use,2249855
+565,World,OWID_WRL,2010,Diet low in fruits,950119
+566,World,OWID_WRL,2010,Unsafe water source,1592303
+567,World,OWID_WRL,2010,Secondhand smoke,1156229
+568,World,OWID_WRL,2010,Low birth weight,2281373
+569,World,OWID_WRL,2010,Child wasting,1583651
+570,World,OWID_WRL,2010,Unsafe sex,1312883
+571,World,OWID_WRL,2010,Diet low in nuts and seeds,523175
+572,World,OWID_WRL,2010,Household air pollution from solid fuels,3038651
+573,World,OWID_WRL,2010,Diet low in vegetables,463636
+574,World,OWID_WRL,2010,Low physical activity,672215
+575,World,OWID_WRL,2010,Smoking,7030932
+576,World,OWID_WRL,2010,High fasting plasma glucose,5059340
+577,World,OWID_WRL,2010,Air pollution,6576174
+578,World,OWID_WRL,2010,High body-mass index,3798179
+579,World,OWID_WRL,2010,Unsafe sanitation,1112208
+580,World,OWID_WRL,2010,No access to handwashing facility,809832
+581,World,OWID_WRL,2010,Drug use,420752
+582,World,OWID_WRL,2010,Low bone mineral density,346141
+583,World,OWID_WRL,2010,Vitamin A deficiency,59767
+584,World,OWID_WRL,2010,Child stunting,317921
+585,World,OWID_WRL,2010,Discontinued breastfeeding,13947
+586,World,OWID_WRL,2010,Non-exclusive breastfeeding,236922
+587,World,OWID_WRL,2010,Iron deficiency,54115
+588,World,OWID_WRL,2011,Outdoor air pollution,3778458
+589,World,OWID_WRL,2011,High systolic blood pressure,9324965
+590,World,OWID_WRL,2011,Diet high in sodium,1669141
+591,World,OWID_WRL,2011,Diet low in whole grains,1591653
+592,World,OWID_WRL,2011,Alcohol use,2235098
+593,World,OWID_WRL,2011,Diet low in fruits,954611
+594,World,OWID_WRL,2011,Unsafe water source,1566354
+595,World,OWID_WRL,2011,Secondhand smoke,1163170
+596,World,OWID_WRL,2011,Low birth weight,2230277
+597,World,OWID_WRL,2011,Child wasting,1519297
+598,World,OWID_WRL,2011,Unsafe sex,1256366
+599,World,OWID_WRL,2011,Diet low in nuts and seeds,528175
+600,World,OWID_WRL,2011,Household air pollution from solid fuels,2950378
+601,World,OWID_WRL,2011,Diet low in vegetables,468560
+602,World,OWID_WRL,2011,Low physical activity,685828
+603,World,OWID_WRL,2011,Smoking,7060420
+604,World,OWID_WRL,2011,High fasting plasma glucose,5178003
+605,World,OWID_WRL,2011,Air pollution,6593948
+606,World,OWID_WRL,2011,High body-mass index,3888788
+607,World,OWID_WRL,2011,Unsafe sanitation,1089355
+608,World,OWID_WRL,2011,No access to handwashing facility,790259
+609,World,OWID_WRL,2011,Drug use,423500
+610,World,OWID_WRL,2011,Low bone mineral density,354747
+611,World,OWID_WRL,2011,Vitamin A deficiency,56697
+612,World,OWID_WRL,2011,Child stunting,301833
+613,World,OWID_WRL,2011,Discontinued breastfeeding,13965
+614,World,OWID_WRL,2011,Non-exclusive breastfeeding,226514
+615,World,OWID_WRL,2011,Iron deficiency,52797
+616,World,OWID_WRL,2012,Outdoor air pollution,3887311
+617,World,OWID_WRL,2012,High systolic blood pressure,9470980
+618,World,OWID_WRL,2012,Diet high in sodium,1688558
+619,World,OWID_WRL,2012,Diet low in whole grains,1614793
+620,World,OWID_WRL,2012,Alcohol use,2247304
+621,World,OWID_WRL,2012,Diet low in fruits,959393
+622,World,OWID_WRL,2012,Unsafe water source,1504617
+623,World,OWID_WRL,2012,Secondhand smoke,1169128
+624,World,OWID_WRL,2012,Low birth weight,2179098
+625,World,OWID_WRL,2012,Child wasting,1440775
+626,World,OWID_WRL,2012,Unsafe sex,1194956
+627,World,OWID_WRL,2012,Diet low in nuts and seeds,533575
+628,World,OWID_WRL,2012,Household air pollution from solid fuels,2852580
+629,World,OWID_WRL,2012,Diet low in vegetables,474415
+630,World,OWID_WRL,2012,Low physical activity,697605
+631,World,OWID_WRL,2012,Smoking,7101157
+632,World,OWID_WRL,2012,High fasting plasma glucose,5314341
+633,World,OWID_WRL,2012,Air pollution,6600712
+634,World,OWID_WRL,2012,High body-mass index,4005260
+635,World,OWID_WRL,2012,Unsafe sanitation,1038606
+636,World,OWID_WRL,2012,No access to handwashing facility,762950
+637,World,OWID_WRL,2012,Drug use,424783
+638,World,OWID_WRL,2012,Low bone mineral density,362472
+639,World,OWID_WRL,2012,Vitamin A deficiency,50334
+640,World,OWID_WRL,2012,Child stunting,281589
+641,World,OWID_WRL,2012,Discontinued breastfeeding,13980
+642,World,OWID_WRL,2012,Non-exclusive breastfeeding,214395
+643,World,OWID_WRL,2012,Iron deficiency,50748
+644,World,OWID_WRL,2013,Outdoor air pollution,4009365
+645,World,OWID_WRL,2013,High systolic blood pressure,9622330
+646,World,OWID_WRL,2013,Diet high in sodium,1705270
+647,World,OWID_WRL,2013,Diet low in whole grains,1639467
+648,World,OWID_WRL,2013,Alcohol use,2258003
+649,World,OWID_WRL,2013,Diet low in fruits,964259
+650,World,OWID_WRL,2013,Unsafe water source,1461535
+651,World,OWID_WRL,2013,Secondhand smoke,1180238
+652,World,OWID_WRL,2013,Low birth weight,2131728
+653,World,OWID_WRL,2013,Child wasting,1379165
+654,World,OWID_WRL,2013,Unsafe sex,1145734
+655,World,OWID_WRL,2013,Diet low in nuts and seeds,538141
+656,World,OWID_WRL,2013,Household air pollution from solid fuels,2757444
+657,World,OWID_WRL,2013,Diet low in vegetables,479911
+658,World,OWID_WRL,2013,Low physical activity,714201
+659,World,OWID_WRL,2013,Smoking,7141391
+660,World,OWID_WRL,2013,High fasting plasma glucose,5467331
+661,World,OWID_WRL,2013,Air pollution,6619746
+662,World,OWID_WRL,2013,High body-mass index,4123948
+663,World,OWID_WRL,2013,Unsafe sanitation,1000036
+664,World,OWID_WRL,2013,No access to handwashing facility,744109
+665,World,OWID_WRL,2013,Drug use,429022
+666,World,OWID_WRL,2013,Low bone mineral density,373946
+667,World,OWID_WRL,2013,Vitamin A deficiency,43588
+668,World,OWID_WRL,2013,Child stunting,262375
+669,World,OWID_WRL,2013,Discontinued breastfeeding,13776
+670,World,OWID_WRL,2013,Non-exclusive breastfeeding,203991
+671,World,OWID_WRL,2013,Iron deficiency,49600
+672,World,OWID_WRL,2014,Outdoor air pollution,4100011
+673,World,OWID_WRL,2014,High systolic blood pressure,9765811
+674,World,OWID_WRL,2014,Diet high in sodium,1723074
+675,World,OWID_WRL,2014,Diet low in whole grains,1659528
+676,World,OWID_WRL,2014,Alcohol use,2270896
+677,World,OWID_WRL,2014,Diet low in fruits,967794
+678,World,OWID_WRL,2014,Unsafe water source,1406151
+679,World,OWID_WRL,2014,Secondhand smoke,1191687
+680,World,OWID_WRL,2014,Low birth weight,2064973
+681,World,OWID_WRL,2014,Child wasting,1310237
+682,World,OWID_WRL,2014,Unsafe sex,1111915
+683,World,OWID_WRL,2014,Diet low in nuts and seeds,539685
+684,World,OWID_WRL,2014,Household air pollution from solid fuels,2659062
+685,World,OWID_WRL,2014,Diet low in vegetables,483615
+686,World,OWID_WRL,2014,Low physical activity,729792
+687,World,OWID_WRL,2014,Smoking,7184137
+688,World,OWID_WRL,2014,High fasting plasma glucose,5613219
+689,World,OWID_WRL,2014,Air pollution,6612532
+690,World,OWID_WRL,2014,High body-mass index,4250569
+691,World,OWID_WRL,2014,Unsafe sanitation,951473
+692,World,OWID_WRL,2014,No access to handwashing facility,720558
+693,World,OWID_WRL,2014,Drug use,438385
+694,World,OWID_WRL,2014,Low bone mineral density,383968
+695,World,OWID_WRL,2014,Vitamin A deficiency,38615
+696,World,OWID_WRL,2014,Child stunting,243106
+697,World,OWID_WRL,2014,Discontinued breastfeeding,12715
+698,World,OWID_WRL,2014,Non-exclusive breastfeeding,192370
+699,World,OWID_WRL,2014,Iron deficiency,47387
+700,World,OWID_WRL,2015,Outdoor air pollution,4191433
+701,World,OWID_WRL,2015,High systolic blood pressure,9999740
+702,World,OWID_WRL,2015,Diet high in sodium,1753289
+703,World,OWID_WRL,2015,Diet low in whole grains,1702413
+704,World,OWID_WRL,2015,Alcohol use,2304268
+705,World,OWID_WRL,2015,Diet low in fruits,983682
+706,World,OWID_WRL,2015,Unsafe water source,1363038
+707,World,OWID_WRL,2015,Secondhand smoke,1209811
+708,World,OWID_WRL,2015,Low birth weight,2006532
+709,World,OWID_WRL,2015,Child wasting,1244798
+710,World,OWID_WRL,2015,Unsafe sex,1088991
+711,World,OWID_WRL,2015,Diet low in nuts and seeds,551259
+712,World,OWID_WRL,2015,Household air pollution from solid fuels,2584719
+713,World,OWID_WRL,2015,Diet low in vegetables,493268
+714,World,OWID_WRL,2015,Low physical activity,749003
+715,World,OWID_WRL,2015,Smoking,7277056
+716,World,OWID_WRL,2015,High fasting plasma glucose,5782270
+717,World,OWID_WRL,2015,Air pollution,6638067
+718,World,OWID_WRL,2015,High body-mass index,4423170
+719,World,OWID_WRL,2015,Unsafe sanitation,908873
+720,World,OWID_WRL,2015,No access to handwashing facility,699665
+721,World,OWID_WRL,2015,Drug use,452151
+722,World,OWID_WRL,2015,Low bone mineral density,395857
+723,World,OWID_WRL,2015,Vitamin A deficiency,34267
+724,World,OWID_WRL,2015,Child stunting,225278
+725,World,OWID_WRL,2015,Discontinued breastfeeding,11325
+726,World,OWID_WRL,2015,Non-exclusive breastfeeding,181113
+727,World,OWID_WRL,2015,Iron deficiency,45726
+728,World,OWID_WRL,2016,Outdoor air pollution,4218230
+729,World,OWID_WRL,2016,High systolic blood pressure,10190860
+730,World,OWID_WRL,2016,Diet high in sodium,1785455
+731,World,OWID_WRL,2016,Diet low in whole grains,1730299
+732,World,OWID_WRL,2016,Alcohol use,2332374
+733,World,OWID_WRL,2016,Diet low in fruits,996499
+734,World,OWID_WRL,2016,Unsafe water source,1327637
+735,World,OWID_WRL,2016,Secondhand smoke,1226823
+736,World,OWID_WRL,2016,Low birth weight,1917525
+737,World,OWID_WRL,2016,Child wasting,1180723
+738,World,OWID_WRL,2016,Unsafe sex,1073126
+739,World,OWID_WRL,2016,Diet low in nuts and seeds,556367
+740,World,OWID_WRL,2016,Household air pollution from solid fuels,2528244
+741,World,OWID_WRL,2016,Diet low in vegetables,501312
+742,World,OWID_WRL,2016,Low physical activity,770864
+743,World,OWID_WRL,2016,Smoking,7359293
+744,World,OWID_WRL,2016,High fasting plasma glucose,5897121
+745,World,OWID_WRL,2016,Air pollution,6605030
+746,World,OWID_WRL,2016,High body-mass index,4563131
+747,World,OWID_WRL,2016,Unsafe sanitation,871473
+748,World,OWID_WRL,2016,No access to handwashing facility,681616
+749,World,OWID_WRL,2016,Drug use,465396
+750,World,OWID_WRL,2016,Low bone mineral density,405813
+751,World,OWID_WRL,2016,Vitamin A deficiency,30436
+752,World,OWID_WRL,2016,Child stunting,208614
+753,World,OWID_WRL,2016,Discontinued breastfeeding,10175
+754,World,OWID_WRL,2016,Non-exclusive breastfeeding,169678
+755,World,OWID_WRL,2016,Iron deficiency,44486
+756,World,OWID_WRL,2017,Outdoor air pollution,4238086
+757,World,OWID_WRL,2017,High systolic blood pressure,10351721
+758,World,OWID_WRL,2017,Diet high in sodium,1811392
+759,World,OWID_WRL,2017,Diet low in whole grains,1758037
+760,World,OWID_WRL,2017,Alcohol use,2355671
+761,World,OWID_WRL,2017,Diet low in fruits,1008138
+762,World,OWID_WRL,2017,Unsafe water source,1319414
+763,World,OWID_WRL,2017,Secondhand smoke,1243584
+764,World,OWID_WRL,2017,Low birth weight,1833254
+765,World,OWID_WRL,2017,Child wasting,1126051
+766,World,OWID_WRL,2017,Unsafe sex,1041873
+767,World,OWID_WRL,2017,Diet low in nuts and seeds,561010
+768,World,OWID_WRL,2017,Household air pollution from solid fuels,2474179
+769,World,OWID_WRL,2017,Diet low in vegetables,508659
+770,World,OWID_WRL,2017,Low physical activity,798187
+771,World,OWID_WRL,2017,Smoking,7427968
+772,World,OWID_WRL,2017,High fasting plasma glucose,6001404
+773,World,OWID_WRL,2017,Air pollution,6564255
+774,World,OWID_WRL,2017,High body-mass index,4683247
+775,World,OWID_WRL,2017,Unsafe sanitation,851326
+776,World,OWID_WRL,2017,No access to handwashing facility,670170
+777,World,OWID_WRL,2017,Drug use,472656
+778,World,OWID_WRL,2017,Low bone mineral density,414524
+779,World,OWID_WRL,2017,Vitamin A deficiency,28133
+780,World,OWID_WRL,2017,Child stunting,195112
+781,World,OWID_WRL,2017,Discontinued breastfeeding,9455
+782,World,OWID_WRL,2017,Non-exclusive breastfeeding,160458
+783,World,OWID_WRL,2017,Iron deficiency,43314
+784,World,OWID_WRL,2018,Outdoor air pollution,4341493
+785,World,OWID_WRL,2018,High systolic blood pressure,10589176
+786,World,OWID_WRL,2018,Diet high in sodium,1842750
+787,World,OWID_WRL,2018,Diet low in whole grains,1802323
+788,World,OWID_WRL,2018,Alcohol use,2393321
+789,World,OWID_WRL,2018,Diet low in fruits,1027421
+790,World,OWID_WRL,2018,Unsafe water source,1270273
+791,World,OWID_WRL,2018,Secondhand smoke,1272137
+792,World,OWID_WRL,2018,Low birth weight,1762714
+793,World,OWID_WRL,2018,Child wasting,1050292
+794,World,OWID_WRL,2018,Unsafe sex,1002773
+795,World,OWID_WRL,2018,Diet low in nuts and seeds,569905
+796,World,OWID_WRL,2018,Household air pollution from solid fuels,2406291
+797,World,OWID_WRL,2018,Diet low in vegetables,519594
+798,World,OWID_WRL,2018,Low physical activity,817081
+799,World,OWID_WRL,2018,Smoking,7551950
+800,World,OWID_WRL,2018,High fasting plasma glucose,6221343
+801,World,OWID_WRL,2018,Air pollution,6605560
+802,World,OWID_WRL,2018,High body-mass index,4841925
+803,World,OWID_WRL,2018,Unsafe sanitation,800857
+804,World,OWID_WRL,2018,No access to handwashing facility,647002
+805,World,OWID_WRL,2018,Drug use,481976
+806,World,OWID_WRL,2018,Low bone mineral density,426726
+807,World,OWID_WRL,2018,Vitamin A deficiency,26127
+808,World,OWID_WRL,2018,Child stunting,178086
+809,World,OWID_WRL,2018,Discontinued breastfeeding,8436
+810,World,OWID_WRL,2018,Non-exclusive breastfeeding,148105
+811,World,OWID_WRL,2018,Iron deficiency,42953
+812,World,OWID_WRL,2019,Outdoor air pollution,4506193
+813,World,OWID_WRL,2019,High systolic blood pressure,10845595
+814,World,OWID_WRL,2019,Diet high in sodium,1885356
+815,World,OWID_WRL,2019,Diet low in whole grains,1844836
+816,World,OWID_WRL,2019,Alcohol use,2441973
+817,World,OWID_WRL,2019,Diet low in fruits,1046015
+818,World,OWID_WRL,2019,Unsafe water source,1230154
+819,World,OWID_WRL,2019,Secondhand smoke,1304318
+820,World,OWID_WRL,2019,Low birth weight,1703121
+821,World,OWID_WRL,2019,Child wasting,993046
+822,World,OWID_WRL,2019,Unsafe sex,984366
+823,World,OWID_WRL,2019,Diet low in nuts and seeds,575139
+824,World,OWID_WRL,2019,Household air pollution from solid fuels,2313991
+825,World,OWID_WRL,2019,Diet low in vegetables,529381
+826,World,OWID_WRL,2019,Low physical activity,831502
+827,World,OWID_WRL,2019,Smoking,7693368
+828,World,OWID_WRL,2019,High fasting plasma glucose,6501398
+829,World,OWID_WRL,2019,Air pollution,6671740
+830,World,OWID_WRL,2019,High body-mass index,5019360
+831,World,OWID_WRL,2019,Unsafe sanitation,756585
+832,World,OWID_WRL,2019,No access to handwashing facility,627919
+833,World,OWID_WRL,2019,Drug use,494492
+834,World,OWID_WRL,2019,Low bone mineral density,437884
+835,World,OWID_WRL,2019,Vitamin A deficiency,23850
+836,World,OWID_WRL,2019,Child stunting,164237
+837,World,OWID_WRL,2019,Discontinued breastfeeding,7788
+838,World,OWID_WRL,2019,Non-exclusive breastfeeding,139732
+839,World,OWID_WRL,2019,Iron deficiency,42349
