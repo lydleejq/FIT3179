@@ -1,0 +1,751 @@
+,Entity,Code,Year,Age group,Number of cases
+0,World,OWID_WRL,1990,70+ years,364724
+1,World,OWID_WRL,1990,50-69 years,725096
+2,World,OWID_WRL,1990,15-49 years,547810
+3,World,OWID_WRL,1990,5-14 years,2242
+4,World,OWID_WRL,1990,Under 5 ,0
+5,World,OWID_WRL,1991,70+ years,372545
+6,World,OWID_WRL,1991,50-69 years,737716
+7,World,OWID_WRL,1991,15-49 years,563473
+8,World,OWID_WRL,1991,5-14 years,2346
+9,World,OWID_WRL,1991,Under 5 ,0
+10,World,OWID_WRL,1992,70+ years,381170
+11,World,OWID_WRL,1992,50-69 years,754204
+12,World,OWID_WRL,1992,15-49 years,585610
+13,World,OWID_WRL,1992,5-14 years,2443
+14,World,OWID_WRL,1992,Under 5 ,0
+15,World,OWID_WRL,1993,70+ years,390792
+16,World,OWID_WRL,1993,50-69 years,776532
+17,World,OWID_WRL,1993,15-49 years,617371
+18,World,OWID_WRL,1993,5-14 years,2553
+19,World,OWID_WRL,1993,Under 5 ,0
+20,World,OWID_WRL,1994,70+ years,399083
+21,World,OWID_WRL,1994,50-69 years,791023
+22,World,OWID_WRL,1994,15-49 years,648617
+23,World,OWID_WRL,1994,5-14 years,2653
+24,World,OWID_WRL,1994,Under 5 ,0
+25,World,OWID_WRL,1995,70+ years,409347
+26,World,OWID_WRL,1995,50-69 years,791358
+27,World,OWID_WRL,1995,15-49 years,663318
+28,World,OWID_WRL,1995,5-14 years,2738
+29,World,OWID_WRL,1995,Under 5 ,0
+30,World,OWID_WRL,1996,70+ years,418798
+31,World,OWID_WRL,1996,50-69 years,785959
+32,World,OWID_WRL,1996,15-49 years,663445
+33,World,OWID_WRL,1996,5-14 years,2791
+34,World,OWID_WRL,1996,Under 5 ,0
+35,World,OWID_WRL,1997,70+ years,428880
+36,World,OWID_WRL,1997,50-69 years,784428
+37,World,OWID_WRL,1997,15-49 years,660007
+38,World,OWID_WRL,1997,5-14 years,2860
+39,World,OWID_WRL,1997,Under 5 ,0
+40,World,OWID_WRL,1998,70+ years,441835
+41,World,OWID_WRL,1998,50-69 years,785588
+42,World,OWID_WRL,1998,15-49 years,663935
+43,World,OWID_WRL,1998,5-14 years,2928
+44,World,OWID_WRL,1998,Under 5 ,0
+45,World,OWID_WRL,1999,70+ years,454907
+46,World,OWID_WRL,1999,50-69 years,796337
+47,World,OWID_WRL,1999,15-49 years,681383
+48,World,OWID_WRL,1999,5-14 years,2989
+49,World,OWID_WRL,1999,Under 5 ,0
+50,World,OWID_WRL,2000,70+ years,468403
+51,World,OWID_WRL,2000,50-69 years,809618
+52,World,OWID_WRL,2000,15-49 years,697921
+53,World,OWID_WRL,2000,5-14 years,3040
+54,World,OWID_WRL,2000,Under 5 ,0
+55,World,OWID_WRL,2001,70+ years,480340
+56,World,OWID_WRL,2001,50-69 years,822939
+57,World,OWID_WRL,2001,15-49 years,705595
+58,World,OWID_WRL,2001,5-14 years,3059
+59,World,OWID_WRL,2001,Under 5 ,0
+60,World,OWID_WRL,2002,70+ years,495154
+61,World,OWID_WRL,2002,50-69 years,845369
+62,World,OWID_WRL,2002,15-49 years,719350
+63,World,OWID_WRL,2002,5-14 years,2996
+64,World,OWID_WRL,2002,Under 5 ,0
+65,World,OWID_WRL,2003,70+ years,508620
+66,World,OWID_WRL,2003,50-69 years,866622
+67,World,OWID_WRL,2003,15-49 years,730294
+68,World,OWID_WRL,2003,5-14 years,2918
+69,World,OWID_WRL,2003,Under 5 ,0
+70,World,OWID_WRL,2004,70+ years,517003
+71,World,OWID_WRL,2004,50-69 years,878864
+72,World,OWID_WRL,2004,15-49 years,739579
+73,World,OWID_WRL,2004,5-14 years,2882
+74,World,OWID_WRL,2004,Under 5 ,0
+75,World,OWID_WRL,2005,70+ years,529225
+76,World,OWID_WRL,2005,50-69 years,902438
+77,World,OWID_WRL,2005,15-49 years,750102
+78,World,OWID_WRL,2005,5-14 years,2845
+79,World,OWID_WRL,2005,Under 5 ,0
+80,World,OWID_WRL,2006,70+ years,532867
+81,World,OWID_WRL,2006,50-69 years,898219
+82,World,OWID_WRL,2006,15-49 years,737849
+83,World,OWID_WRL,2006,5-14 years,2731
+84,World,OWID_WRL,2006,Under 5 ,0
+85,World,OWID_WRL,2007,70+ years,543335
+86,World,OWID_WRL,2007,50-69 years,905786
+87,World,OWID_WRL,2007,15-49 years,732880
+88,World,OWID_WRL,2007,5-14 years,2676
+89,World,OWID_WRL,2007,Under 5 ,0
+90,World,OWID_WRL,2008,70+ years,561807
+91,World,OWID_WRL,2008,50-69 years,924269
+92,World,OWID_WRL,2008,15-49 years,739422
+93,World,OWID_WRL,2008,5-14 years,2689
+94,World,OWID_WRL,2008,Under 5 ,0
+95,World,OWID_WRL,2009,70+ years,575595
+96,World,OWID_WRL,2009,50-69 years,925047
+97,World,OWID_WRL,2009,15-49 years,719681
+98,World,OWID_WRL,2009,5-14 years,2749
+99,World,OWID_WRL,2009,Under 5 ,0
+100,World,OWID_WRL,2010,70+ years,589728
+101,World,OWID_WRL,2010,50-69 years,938690
+102,World,OWID_WRL,2010,15-49 years,718718
+103,World,OWID_WRL,2010,5-14 years,2719
+104,World,OWID_WRL,2010,Under 5 ,0
+105,World,OWID_WRL,2011,70+ years,597419
+106,World,OWID_WRL,2011,50-69 years,941225
+107,World,OWID_WRL,2011,15-49 years,693745
+108,World,OWID_WRL,2011,5-14 years,2709
+109,World,OWID_WRL,2011,Under 5 ,0
+110,World,OWID_WRL,2012,70+ years,606708
+111,World,OWID_WRL,2012,50-69 years,953450
+112,World,OWID_WRL,2012,15-49 years,684427
+113,World,OWID_WRL,2012,5-14 years,2719
+114,World,OWID_WRL,2012,Under 5 ,0
+115,World,OWID_WRL,2013,70+ years,616751
+116,World,OWID_WRL,2013,50-69 years,961094
+117,World,OWID_WRL,2013,15-49 years,677534
+118,World,OWID_WRL,2013,5-14 years,2624
+119,World,OWID_WRL,2013,Under 5 ,0
+120,World,OWID_WRL,2014,70+ years,625696
+121,World,OWID_WRL,2014,50-69 years,974639
+122,World,OWID_WRL,2014,15-49 years,667986
+123,World,OWID_WRL,2014,5-14 years,2575
+124,World,OWID_WRL,2014,Under 5 ,0
+125,World,OWID_WRL,2015,70+ years,636494
+126,World,OWID_WRL,2015,50-69 years,1000848
+127,World,OWID_WRL,2015,15-49 years,664357
+128,World,OWID_WRL,2015,5-14 years,2569
+129,World,OWID_WRL,2015,Under 5 ,0
+130,World,OWID_WRL,2016,70+ years,650274
+131,World,OWID_WRL,2016,50-69 years,1018130
+132,World,OWID_WRL,2016,15-49 years,661471
+133,World,OWID_WRL,2016,5-14 years,2498
+134,World,OWID_WRL,2016,Under 5 ,0
+135,World,OWID_WRL,2017,70+ years,667614
+136,World,OWID_WRL,2017,50-69 years,1024464
+137,World,OWID_WRL,2017,15-49 years,661156
+138,World,OWID_WRL,2017,5-14 years,2437
+139,World,OWID_WRL,2017,Under 5 ,0
+140,World,OWID_WRL,2018,70+ years,689973
+141,World,OWID_WRL,2018,50-69 years,1034901
+142,World,OWID_WRL,2018,15-49 years,665949
+143,World,OWID_WRL,2018,5-14 years,2498
+144,World,OWID_WRL,2018,Under 5 ,0
+145,World,OWID_WRL,2019,70+ years,720005
+146,World,OWID_WRL,2019,50-69 years,1050780
+147,World,OWID_WRL,2019,15-49 years,668662
+148,World,OWID_WRL,2019,5-14 years,2526
+149,World,OWID_WRL,2019,Under 5 ,0
+150,World Bank High Income,,1990,70+ years,163071
+151,World Bank High Income,,1990,50-69 years,201310
+152,World Bank High Income,,1990,15-49 years,119349
+153,World Bank High Income,,1990,5-14 years,660
+154,World Bank High Income,,1990,Under 5 ,0
+155,World Bank High Income,,1991,70+ years,163303
+156,World Bank High Income,,1991,50-69 years,200657
+157,World Bank High Income,,1991,15-49 years,120059
+158,World Bank High Income,,1991,5-14 years,652
+159,World Bank High Income,,1991,Under 5 ,0
+160,World Bank High Income,,1992,70+ years,163727
+161,World Bank High Income,,1992,50-69 years,198993
+162,World Bank High Income,,1992,15-49 years,119911
+163,World Bank High Income,,1992,5-14 years,641
+164,World Bank High Income,,1992,Under 5 ,0
+165,World Bank High Income,,1993,70+ years,165814
+166,World Bank High Income,,1993,50-69 years,198732
+167,World Bank High Income,,1993,15-49 years,120315
+168,World Bank High Income,,1993,5-14 years,638
+169,World Bank High Income,,1993,Under 5 ,0
+170,World Bank High Income,,1994,70+ years,167220
+171,World Bank High Income,,1994,50-69 years,197997
+172,World Bank High Income,,1994,15-49 years,120780
+173,World Bank High Income,,1994,5-14 years,640
+174,World Bank High Income,,1994,Under 5 ,0
+175,World Bank High Income,,1995,70+ years,170231
+176,World Bank High Income,,1995,50-69 years,197395
+177,World Bank High Income,,1995,15-49 years,121108
+178,World Bank High Income,,1995,5-14 years,631
+179,World Bank High Income,,1995,Under 5 ,0
+180,World Bank High Income,,1996,70+ years,172007
+181,World Bank High Income,,1996,50-69 years,194700
+182,World Bank High Income,,1996,15-49 years,119592
+183,World Bank High Income,,1996,5-14 years,616
+184,World Bank High Income,,1996,Under 5 ,0
+185,World Bank High Income,,1997,70+ years,173494
+186,World Bank High Income,,1997,50-69 years,193366
+187,World Bank High Income,,1997,15-49 years,118173
+188,World Bank High Income,,1997,5-14 years,604
+189,World Bank High Income,,1997,Under 5 ,0
+190,World Bank High Income,,1998,70+ years,177541
+191,World Bank High Income,,1998,50-69 years,194884
+192,World Bank High Income,,1998,15-49 years,116886
+193,World Bank High Income,,1998,5-14 years,596
+194,World Bank High Income,,1998,Under 5 ,0
+195,World Bank High Income,,1999,70+ years,181004
+196,World Bank High Income,,1999,50-69 years,195855
+197,World Bank High Income,,1999,15-49 years,115059
+198,World Bank High Income,,1999,5-14 years,582
+199,World Bank High Income,,1999,Under 5 ,0
+200,World Bank High Income,,2000,70+ years,182116
+201,World Bank High Income,,2000,50-69 years,194640
+202,World Bank High Income,,2000,15-49 years,112879
+203,World Bank High Income,,2000,5-14 years,566
+204,World Bank High Income,,2000,Under 5 ,0
+205,World Bank High Income,,2001,70+ years,183920
+206,World Bank High Income,,2001,50-69 years,194893
+207,World Bank High Income,,2001,15-49 years,111711
+208,World Bank High Income,,2001,5-14 years,554
+209,World Bank High Income,,2001,Under 5 ,0
+210,World Bank High Income,,2002,70+ years,187842
+211,World Bank High Income,,2002,50-69 years,196087
+212,World Bank High Income,,2002,15-49 years,110283
+213,World Bank High Income,,2002,5-14 years,551
+214,World Bank High Income,,2002,Under 5 ,0
+215,World Bank High Income,,2003,70+ years,191660
+216,World Bank High Income,,2003,50-69 years,198654
+217,World Bank High Income,,2003,15-49 years,109073
+218,World Bank High Income,,2003,5-14 years,535
+219,World Bank High Income,,2003,Under 5 ,0
+220,World Bank High Income,,2004,70+ years,191758
+221,World Bank High Income,,2004,50-69 years,198569
+222,World Bank High Income,,2004,15-49 years,106587
+223,World Bank High Income,,2004,5-14 years,515
+224,World Bank High Income,,2004,Under 5 ,0
+225,World Bank High Income,,2005,70+ years,195075
+226,World Bank High Income,,2005,50-69 years,201303
+227,World Bank High Income,,2005,15-49 years,105547
+228,World Bank High Income,,2005,5-14 years,501
+229,World Bank High Income,,2005,Under 5 ,0
+230,World Bank High Income,,2006,70+ years,196247
+231,World Bank High Income,,2006,50-69 years,202431
+232,World Bank High Income,,2006,15-49 years,103479
+233,World Bank High Income,,2006,5-14 years,472
+234,World Bank High Income,,2006,Under 5 ,0
+235,World Bank High Income,,2007,70+ years,198950
+236,World Bank High Income,,2007,50-69 years,204657
+237,World Bank High Income,,2007,15-49 years,101600
+238,World Bank High Income,,2007,5-14 years,450
+239,World Bank High Income,,2007,Under 5 ,0
+240,World Bank High Income,,2008,70+ years,201762
+241,World Bank High Income,,2008,50-69 years,206535
+242,World Bank High Income,,2008,15-49 years,99329
+243,World Bank High Income,,2008,5-14 years,423
+244,World Bank High Income,,2008,Under 5 ,0
+245,World Bank High Income,,2009,70+ years,203886
+246,World Bank High Income,,2009,50-69 years,208294
+247,World Bank High Income,,2009,15-49 years,96781
+248,World Bank High Income,,2009,5-14 years,399
+249,World Bank High Income,,2009,Under 5 ,0
+250,World Bank High Income,,2010,70+ years,206161
+251,World Bank High Income,,2010,50-69 years,209363
+252,World Bank High Income,,2010,15-49 years,93538
+253,World Bank High Income,,2010,5-14 years,371
+254,World Bank High Income,,2010,Under 5 ,0
+255,World Bank High Income,,2011,70+ years,210122
+256,World Bank High Income,,2011,50-69 years,211559
+257,World Bank High Income,,2011,15-49 years,91136
+258,World Bank High Income,,2011,5-14 years,359
+259,World Bank High Income,,2011,Under 5 ,0
+260,World Bank High Income,,2012,70+ years,213232
+261,World Bank High Income,,2012,50-69 years,213020
+262,World Bank High Income,,2012,15-49 years,88125
+263,World Bank High Income,,2012,5-14 years,346
+264,World Bank High Income,,2012,Under 5 ,0
+265,World Bank High Income,,2013,70+ years,215967
+266,World Bank High Income,,2013,50-69 years,214730
+267,World Bank High Income,,2013,15-49 years,85611
+268,World Bank High Income,,2013,5-14 years,337
+269,World Bank High Income,,2013,Under 5 ,0
+270,World Bank High Income,,2014,70+ years,218202
+271,World Bank High Income,,2014,50-69 years,215756
+272,World Bank High Income,,2014,15-49 years,83660
+273,World Bank High Income,,2014,5-14 years,330
+274,World Bank High Income,,2014,Under 5 ,0
+275,World Bank High Income,,2015,70+ years,224270
+276,World Bank High Income,,2015,50-69 years,219973
+277,World Bank High Income,,2015,15-49 years,83135
+278,World Bank High Income,,2015,5-14 years,334
+279,World Bank High Income,,2015,Under 5 ,0
+280,World Bank High Income,,2016,70+ years,227165
+281,World Bank High Income,,2016,50-69 years,222189
+282,World Bank High Income,,2016,15-49 years,82708
+283,World Bank High Income,,2016,5-14 years,329
+284,World Bank High Income,,2016,Under 5 ,0
+285,World Bank High Income,,2017,70+ years,232283
+286,World Bank High Income,,2017,50-69 years,221962
+287,World Bank High Income,,2017,15-49 years,81924
+288,World Bank High Income,,2017,5-14 years,322
+289,World Bank High Income,,2017,Under 5 ,0
+290,World Bank High Income,,2018,70+ years,241202
+291,World Bank High Income,,2018,50-69 years,222363
+292,World Bank High Income,,2018,15-49 years,81421
+293,World Bank High Income,,2018,5-14 years,325
+294,World Bank High Income,,2018,Under 5 ,0
+295,World Bank High Income,,2019,70+ years,251216
+296,World Bank High Income,,2019,50-69 years,222786
+297,World Bank High Income,,2019,15-49 years,81132
+298,World Bank High Income,,2019,5-14 years,324
+299,World Bank High Income,,2019,Under 5 ,0
+300,World Bank Low Income,,1990,70+ years,19489
+301,World Bank Low Income,,1990,50-69 years,47075
+302,World Bank Low Income,,1990,15-49 years,35939
+303,World Bank Low Income,,1990,5-14 years,82
+304,World Bank Low Income,,1990,Under 5 ,0
+305,World Bank Low Income,,1991,70+ years,19821
+306,World Bank Low Income,,1991,50-69 years,47506
+307,World Bank Low Income,,1991,15-49 years,36910
+308,World Bank Low Income,,1991,5-14 years,85
+309,World Bank Low Income,,1991,Under 5 ,0
+310,World Bank Low Income,,1992,70+ years,20126
+311,World Bank Low Income,,1992,50-69 years,47605
+312,World Bank Low Income,,1992,15-49 years,37383
+313,World Bank Low Income,,1992,5-14 years,86
+314,World Bank Low Income,,1992,Under 5 ,0
+315,World Bank Low Income,,1993,70+ years,20382
+316,World Bank Low Income,,1993,50-69 years,47510
+317,World Bank Low Income,,1993,15-49 years,38092
+318,World Bank Low Income,,1993,5-14 years,89
+319,World Bank Low Income,,1993,Under 5 ,0
+320,World Bank Low Income,,1994,70+ years,20517
+321,World Bank Low Income,,1994,50-69 years,47836
+322,World Bank Low Income,,1994,15-49 years,38650
+323,World Bank Low Income,,1994,5-14 years,88
+324,World Bank Low Income,,1994,Under 5 ,0
+325,World Bank Low Income,,1995,70+ years,20690
+326,World Bank Low Income,,1995,50-69 years,48722
+327,World Bank Low Income,,1995,15-49 years,39668
+328,World Bank Low Income,,1995,5-14 years,89
+329,World Bank Low Income,,1995,Under 5 ,0
+330,World Bank Low Income,,1996,70+ years,20816
+331,World Bank Low Income,,1996,50-69 years,49218
+332,World Bank Low Income,,1996,15-49 years,40924
+333,World Bank Low Income,,1996,5-14 years,92
+334,World Bank Low Income,,1996,Under 5 ,0
+335,World Bank Low Income,,1997,70+ years,20897
+336,World Bank Low Income,,1997,50-69 years,49196
+337,World Bank Low Income,,1997,15-49 years,41152
+338,World Bank Low Income,,1997,5-14 years,92
+339,World Bank Low Income,,1997,Under 5 ,0
+340,World Bank Low Income,,1998,70+ years,20978
+341,World Bank Low Income,,1998,50-69 years,49162
+342,World Bank Low Income,,1998,15-49 years,41699
+343,World Bank Low Income,,1998,5-14 years,94
+344,World Bank Low Income,,1998,Under 5 ,0
+345,World Bank Low Income,,1999,70+ years,21071
+346,World Bank Low Income,,1999,50-69 years,48904
+347,World Bank Low Income,,1999,15-49 years,42061
+348,World Bank Low Income,,1999,5-14 years,96
+349,World Bank Low Income,,1999,Under 5 ,0
+350,World Bank Low Income,,2000,70+ years,21305
+351,World Bank Low Income,,2000,50-69 years,48420
+352,World Bank Low Income,,2000,15-49 years,42645
+353,World Bank Low Income,,2000,5-14 years,99
+354,World Bank Low Income,,2000,Under 5 ,0
+355,World Bank Low Income,,2001,70+ years,21253
+356,World Bank Low Income,,2001,50-69 years,48205
+357,World Bank Low Income,,2001,15-49 years,42337
+358,World Bank Low Income,,2001,5-14 years,100
+359,World Bank Low Income,,2001,Under 5 ,0
+360,World Bank Low Income,,2002,70+ years,21332
+361,World Bank Low Income,,2002,50-69 years,47847
+362,World Bank Low Income,,2002,15-49 years,42242
+363,World Bank Low Income,,2002,5-14 years,104
+364,World Bank Low Income,,2002,Under 5 ,0
+365,World Bank Low Income,,2003,70+ years,21423
+366,World Bank Low Income,,2003,50-69 years,47847
+367,World Bank Low Income,,2003,15-49 years,42295
+368,World Bank Low Income,,2003,5-14 years,106
+369,World Bank Low Income,,2003,Under 5 ,0
+370,World Bank Low Income,,2004,70+ years,21660
+371,World Bank Low Income,,2004,50-69 years,47969
+372,World Bank Low Income,,2004,15-49 years,42559
+373,World Bank Low Income,,2004,5-14 years,109
+374,World Bank Low Income,,2004,Under 5 ,0
+375,World Bank Low Income,,2005,70+ years,21929
+376,World Bank Low Income,,2005,50-69 years,47921
+377,World Bank Low Income,,2005,15-49 years,42457
+378,World Bank Low Income,,2005,5-14 years,112
+379,World Bank Low Income,,2005,Under 5 ,0
+380,World Bank Low Income,,2006,70+ years,22323
+381,World Bank Low Income,,2006,50-69 years,48160
+382,World Bank Low Income,,2006,15-49 years,42688
+383,World Bank Low Income,,2006,5-14 years,115
+384,World Bank Low Income,,2006,Under 5 ,0
+385,World Bank Low Income,,2007,70+ years,22772
+386,World Bank Low Income,,2007,50-69 years,48776
+387,World Bank Low Income,,2007,15-49 years,43291
+388,World Bank Low Income,,2007,5-14 years,118
+389,World Bank Low Income,,2007,Under 5 ,0
+390,World Bank Low Income,,2008,70+ years,23391
+391,World Bank Low Income,,2008,50-69 years,49395
+392,World Bank Low Income,,2008,15-49 years,43924
+393,World Bank Low Income,,2008,5-14 years,122
+394,World Bank Low Income,,2008,Under 5 ,0
+395,World Bank Low Income,,2009,70+ years,23952
+396,World Bank Low Income,,2009,50-69 years,50194
+397,World Bank Low Income,,2009,15-49 years,44642
+398,World Bank Low Income,,2009,5-14 years,125
+399,World Bank Low Income,,2009,Under 5 ,0
+400,World Bank Low Income,,2010,70+ years,24903
+401,World Bank Low Income,,2010,50-69 years,52632
+402,World Bank Low Income,,2010,15-49 years,52642
+403,World Bank Low Income,,2010,5-14 years,126
+404,World Bank Low Income,,2010,Under 5 ,0
+405,World Bank Low Income,,2011,70+ years,24893
+406,World Bank Low Income,,2011,50-69 years,51818
+407,World Bank Low Income,,2011,15-49 years,45972
+408,World Bank Low Income,,2011,5-14 years,131
+409,World Bank Low Income,,2011,Under 5 ,0
+410,World Bank Low Income,,2012,70+ years,25513
+411,World Bank Low Income,,2012,50-69 years,53206
+412,World Bank Low Income,,2012,15-49 years,46931
+413,World Bank Low Income,,2012,5-14 years,134
+414,World Bank Low Income,,2012,Under 5 ,0
+415,World Bank Low Income,,2013,70+ years,26220
+416,World Bank Low Income,,2013,50-69 years,54819
+417,World Bank Low Income,,2013,15-49 years,48124
+418,World Bank Low Income,,2013,5-14 years,139
+419,World Bank Low Income,,2013,Under 5 ,0
+420,World Bank Low Income,,2014,70+ years,26895
+421,World Bank Low Income,,2014,50-69 years,56581
+422,World Bank Low Income,,2014,15-49 years,49598
+423,World Bank Low Income,,2014,5-14 years,146
+424,World Bank Low Income,,2014,Under 5 ,0
+425,World Bank Low Income,,2015,70+ years,27692
+426,World Bank Low Income,,2015,50-69 years,57951
+427,World Bank Low Income,,2015,15-49 years,50747
+428,World Bank Low Income,,2015,5-14 years,151
+429,World Bank Low Income,,2015,Under 5 ,0
+430,World Bank Low Income,,2016,70+ years,28277
+431,World Bank Low Income,,2016,50-69 years,59661
+432,World Bank Low Income,,2016,15-49 years,51938
+433,World Bank Low Income,,2016,5-14 years,157
+434,World Bank Low Income,,2016,Under 5 ,0
+435,World Bank Low Income,,2017,70+ years,29011
+436,World Bank Low Income,,2017,50-69 years,61404
+437,World Bank Low Income,,2017,15-49 years,53096
+438,World Bank Low Income,,2017,5-14 years,162
+439,World Bank Low Income,,2017,Under 5 ,0
+440,World Bank Low Income,,2018,70+ years,29620
+441,World Bank Low Income,,2018,50-69 years,63022
+442,World Bank Low Income,,2018,15-49 years,54134
+443,World Bank Low Income,,2018,5-14 years,168
+444,World Bank Low Income,,2018,Under 5 ,0
+445,World Bank Low Income,,2019,70+ years,30170
+446,World Bank Low Income,,2019,50-69 years,64677
+447,World Bank Low Income,,2019,15-49 years,54913
+448,World Bank Low Income,,2019,5-14 years,170
+449,World Bank Low Income,,2019,Under 5 ,0
+450,World Bank Lower Middle Income,,1990,70+ years,46628
+451,World Bank Lower Middle Income,,1990,50-69 years,164901
+452,World Bank Lower Middle Income,,1990,15-49 years,147558
+453,World Bank Lower Middle Income,,1990,5-14 years,344
+454,World Bank Lower Middle Income,,1990,Under 5 ,0
+455,World Bank Lower Middle Income,,1991,70+ years,48136
+456,World Bank Lower Middle Income,,1991,50-69 years,170442
+457,World Bank Lower Middle Income,,1991,15-49 years,152579
+458,World Bank Lower Middle Income,,1991,5-14 years,373
+459,World Bank Lower Middle Income,,1991,Under 5 ,0
+460,World Bank Lower Middle Income,,1992,70+ years,49617
+461,World Bank Lower Middle Income,,1992,50-69 years,175085
+462,World Bank Lower Middle Income,,1992,15-49 years,157285
+463,World Bank Lower Middle Income,,1992,5-14 years,394
+464,World Bank Lower Middle Income,,1992,Under 5 ,0
+465,World Bank Lower Middle Income,,1993,70+ years,50624
+466,World Bank Lower Middle Income,,1993,50-69 years,178049
+467,World Bank Lower Middle Income,,1993,15-49 years,162174
+468,World Bank Lower Middle Income,,1993,5-14 years,414
+469,World Bank Lower Middle Income,,1993,Under 5 ,0
+470,World Bank Lower Middle Income,,1994,70+ years,51794
+471,World Bank Lower Middle Income,,1994,50-69 years,181726
+472,World Bank Lower Middle Income,,1994,15-49 years,168970
+473,World Bank Lower Middle Income,,1994,5-14 years,428
+474,World Bank Lower Middle Income,,1994,Under 5 ,0
+475,World Bank Lower Middle Income,,1995,70+ years,53063
+476,World Bank Lower Middle Income,,1995,50-69 years,184219
+477,World Bank Lower Middle Income,,1995,15-49 years,175310
+478,World Bank Lower Middle Income,,1995,5-14 years,442
+479,World Bank Lower Middle Income,,1995,Under 5 ,0
+480,World Bank Lower Middle Income,,1996,70+ years,55043
+481,World Bank Lower Middle Income,,1996,50-69 years,187038
+482,World Bank Lower Middle Income,,1996,15-49 years,179872
+483,World Bank Lower Middle Income,,1996,5-14 years,445
+484,World Bank Lower Middle Income,,1996,Under 5 ,0
+485,World Bank Lower Middle Income,,1997,70+ years,58262
+486,World Bank Lower Middle Income,,1997,50-69 years,192310
+487,World Bank Lower Middle Income,,1997,15-49 years,185959
+488,World Bank Lower Middle Income,,1997,5-14 years,467
+489,World Bank Lower Middle Income,,1997,Under 5 ,0
+490,World Bank Lower Middle Income,,1998,70+ years,60795
+491,World Bank Lower Middle Income,,1998,50-69 years,192628
+492,World Bank Lower Middle Income,,1998,15-49 years,189950
+493,World Bank Lower Middle Income,,1998,5-14 years,497
+494,World Bank Lower Middle Income,,1998,Under 5 ,0
+495,World Bank Lower Middle Income,,1999,70+ years,62164
+496,World Bank Lower Middle Income,,1999,50-69 years,192433
+497,World Bank Lower Middle Income,,1999,15-49 years,197555
+498,World Bank Lower Middle Income,,1999,5-14 years,512
+499,World Bank Lower Middle Income,,1999,Under 5 ,0
+500,World Bank Lower Middle Income,,2000,70+ years,65190
+501,World Bank Lower Middle Income,,2000,50-69 years,195219
+502,World Bank Lower Middle Income,,2000,15-49 years,203286
+503,World Bank Lower Middle Income,,2000,5-14 years,548
+504,World Bank Lower Middle Income,,2000,Under 5 ,0
+505,World Bank Lower Middle Income,,2001,70+ years,68251
+506,World Bank Lower Middle Income,,2001,50-69 years,199138
+507,World Bank Lower Middle Income,,2001,15-49 years,206384
+508,World Bank Lower Middle Income,,2001,5-14 years,586
+509,World Bank Lower Middle Income,,2001,Under 5 ,0
+510,World Bank Lower Middle Income,,2002,70+ years,71324
+511,World Bank Lower Middle Income,,2002,50-69 years,204365
+512,World Bank Lower Middle Income,,2002,15-49 years,211217
+513,World Bank Lower Middle Income,,2002,5-14 years,571
+514,World Bank Lower Middle Income,,2002,Under 5 ,0
+515,World Bank Lower Middle Income,,2003,70+ years,73721
+516,World Bank Lower Middle Income,,2003,50-69 years,210136
+517,World Bank Lower Middle Income,,2003,15-49 years,215032
+518,World Bank Lower Middle Income,,2003,5-14 years,561
+519,World Bank Lower Middle Income,,2003,Under 5 ,0
+520,World Bank Lower Middle Income,,2004,70+ years,75276
+521,World Bank Lower Middle Income,,2004,50-69 years,213381
+522,World Bank Lower Middle Income,,2004,15-49 years,224115
+523,World Bank Lower Middle Income,,2004,5-14 years,603
+524,World Bank Lower Middle Income,,2004,Under 5 ,0
+525,World Bank Lower Middle Income,,2005,70+ years,78833
+526,World Bank Lower Middle Income,,2005,50-69 years,220863
+527,World Bank Lower Middle Income,,2005,15-49 years,230232
+528,World Bank Lower Middle Income,,2005,5-14 years,649
+529,World Bank Lower Middle Income,,2005,Under 5 ,0
+530,World Bank Lower Middle Income,,2006,70+ years,82760
+531,World Bank Lower Middle Income,,2006,50-69 years,225828
+532,World Bank Lower Middle Income,,2006,15-49 years,236402
+533,World Bank Lower Middle Income,,2006,5-14 years,640
+534,World Bank Lower Middle Income,,2006,Under 5 ,0
+535,World Bank Lower Middle Income,,2007,70+ years,86496
+536,World Bank Lower Middle Income,,2007,50-69 years,235497
+537,World Bank Lower Middle Income,,2007,15-49 years,245554
+538,World Bank Lower Middle Income,,2007,5-14 years,641
+539,World Bank Lower Middle Income,,2007,Under 5 ,0
+540,World Bank Lower Middle Income,,2008,70+ years,91924
+541,World Bank Lower Middle Income,,2008,50-69 years,245069
+542,World Bank Lower Middle Income,,2008,15-49 years,254722
+543,World Bank Lower Middle Income,,2008,5-14 years,646
+544,World Bank Lower Middle Income,,2008,Under 5 ,0
+545,World Bank Lower Middle Income,,2009,70+ years,94325
+546,World Bank Lower Middle Income,,2009,50-69 years,248258
+547,World Bank Lower Middle Income,,2009,15-49 years,249503
+548,World Bank Lower Middle Income,,2009,5-14 years,658
+549,World Bank Lower Middle Income,,2009,Under 5 ,0
+550,World Bank Lower Middle Income,,2010,70+ years,96699
+551,World Bank Lower Middle Income,,2010,50-69 years,256431
+552,World Bank Lower Middle Income,,2010,15-49 years,249579
+553,World Bank Lower Middle Income,,2010,5-14 years,685
+554,World Bank Lower Middle Income,,2010,Under 5 ,0
+555,World Bank Lower Middle Income,,2011,70+ years,100535
+556,World Bank Lower Middle Income,,2011,50-69 years,264669
+557,World Bank Lower Middle Income,,2011,15-49 years,252794
+558,World Bank Lower Middle Income,,2011,5-14 years,721
+559,World Bank Lower Middle Income,,2011,Under 5 ,0
+560,World Bank Lower Middle Income,,2012,70+ years,105355
+561,World Bank Lower Middle Income,,2012,50-69 years,273959
+562,World Bank Lower Middle Income,,2012,15-49 years,257284
+563,World Bank Lower Middle Income,,2012,5-14 years,757
+564,World Bank Lower Middle Income,,2012,Under 5 ,0
+565,World Bank Lower Middle Income,,2013,70+ years,111616
+566,World Bank Lower Middle Income,,2013,50-69 years,279121
+567,World Bank Lower Middle Income,,2013,15-49 years,259900
+568,World Bank Lower Middle Income,,2013,5-14 years,710
+569,World Bank Lower Middle Income,,2013,Under 5 ,0
+570,World Bank Lower Middle Income,,2014,70+ years,115188
+571,World Bank Lower Middle Income,,2014,50-69 years,284482
+572,World Bank Lower Middle Income,,2014,15-49 years,255193
+573,World Bank Lower Middle Income,,2014,5-14 years,708
+574,World Bank Lower Middle Income,,2014,Under 5 ,0
+575,World Bank Lower Middle Income,,2015,70+ years,116305
+576,World Bank Lower Middle Income,,2015,50-69 years,300760
+577,World Bank Lower Middle Income,,2015,15-49 years,260052
+578,World Bank Lower Middle Income,,2015,5-14 years,740
+579,World Bank Lower Middle Income,,2015,Under 5 ,0
+580,World Bank Lower Middle Income,,2016,70+ years,119755
+581,World Bank Lower Middle Income,,2016,50-69 years,308012
+582,World Bank Lower Middle Income,,2016,15-49 years,262148
+583,World Bank Lower Middle Income,,2016,5-14 years,702
+584,World Bank Lower Middle Income,,2016,Under 5 ,0
+585,World Bank Lower Middle Income,,2017,70+ years,124445
+586,World Bank Lower Middle Income,,2017,50-69 years,314322
+587,World Bank Lower Middle Income,,2017,15-49 years,265789
+588,World Bank Lower Middle Income,,2017,5-14 years,687
+589,World Bank Lower Middle Income,,2017,Under 5 ,0
+590,World Bank Lower Middle Income,,2018,70+ years,128548
+591,World Bank Lower Middle Income,,2018,50-69 years,319420
+592,World Bank Lower Middle Income,,2018,15-49 years,268685
+593,World Bank Lower Middle Income,,2018,5-14 years,747
+594,World Bank Lower Middle Income,,2018,Under 5 ,0
+595,World Bank Lower Middle Income,,2019,70+ years,132035
+596,World Bank Lower Middle Income,,2019,50-69 years,325629
+597,World Bank Lower Middle Income,,2019,15-49 years,271087
+598,World Bank Lower Middle Income,,2019,5-14 years,772
+599,World Bank Lower Middle Income,,2019,Under 5 ,0
+600,World Bank Upper Middle Income,,1990,70+ years,135351
+601,World Bank Upper Middle Income,,1990,50-69 years,311500
+602,World Bank Upper Middle Income,,1990,15-49 years,244705
+603,World Bank Upper Middle Income,,1990,5-14 years,1155
+604,World Bank Upper Middle Income,,1990,Under 5 ,0
+605,World Bank Upper Middle Income,,1991,70+ years,141100
+606,World Bank Upper Middle Income,,1991,50-69 years,318801
+607,World Bank Upper Middle Income,,1991,15-49 years,253660
+608,World Bank Upper Middle Income,,1991,5-14 years,1235
+609,World Bank Upper Middle Income,,1991,Under 5 ,0
+610,World Bank Upper Middle Income,,1992,70+ years,147513
+611,World Bank Upper Middle Income,,1992,50-69 years,332209
+612,World Bank Upper Middle Income,,1992,15-49 years,270761
+613,World Bank Upper Middle Income,,1992,5-14 years,1320
+614,World Bank Upper Middle Income,,1992,Under 5 ,0
+615,World Bank Upper Middle Income,,1993,70+ years,153783
+616,World Bank Upper Middle Income,,1993,50-69 years,351925
+617,World Bank Upper Middle Income,,1993,15-49 years,296511
+618,World Bank Upper Middle Income,,1993,5-14 years,1411
+619,World Bank Upper Middle Income,,1993,Under 5 ,0
+620,World Bank Upper Middle Income,,1994,70+ years,159362
+621,World Bank Upper Middle Income,,1994,50-69 years,363148
+622,World Bank Upper Middle Income,,1994,15-49 years,319938
+623,World Bank Upper Middle Income,,1994,5-14 years,1496
+624,World Bank Upper Middle Income,,1994,Under 5 ,0
+625,World Bank Upper Middle Income,,1995,70+ years,165169
+626,World Bank Upper Middle Income,,1995,50-69 years,360702
+627,World Bank Upper Middle Income,,1995,15-49 years,326947
+628,World Bank Upper Middle Income,,1995,5-14 years,1575
+629,World Bank Upper Middle Income,,1995,Under 5 ,0
+630,World Bank Upper Middle Income,,1996,70+ years,170735
+631,World Bank Upper Middle Income,,1996,50-69 years,354682
+632,World Bank Upper Middle Income,,1996,15-49 years,322768
+633,World Bank Upper Middle Income,,1996,5-14 years,1636
+634,World Bank Upper Middle Income,,1996,Under 5 ,0
+635,World Bank Upper Middle Income,,1997,70+ years,176027
+636,World Bank Upper Middle Income,,1997,50-69 years,349234
+637,World Bank Upper Middle Income,,1997,15-49 years,314431
+638,World Bank Upper Middle Income,,1997,5-14 years,1696
+639,World Bank Upper Middle Income,,1997,Under 5 ,0
+640,World Bank Upper Middle Income,,1998,70+ years,182316
+641,World Bank Upper Middle Income,,1998,50-69 years,348584
+642,World Bank Upper Middle Income,,1998,15-49 years,315105
+643,World Bank Upper Middle Income,,1998,5-14 years,1740
+644,World Bank Upper Middle Income,,1998,Under 5 ,0
+645,World Bank Upper Middle Income,,1999,70+ years,190456
+646,World Bank Upper Middle Income,,1999,50-69 years,358812
+647,World Bank Upper Middle Income,,1999,15-49 years,326414
+648,World Bank Upper Middle Income,,1999,5-14 years,1798
+649,World Bank Upper Middle Income,,1999,Under 5 ,0
+650,World Bank Upper Middle Income,,2000,70+ years,199579
+651,World Bank Upper Middle Income,,2000,50-69 years,371007
+652,World Bank Upper Middle Income,,2000,15-49 years,338819
+653,World Bank Upper Middle Income,,2000,5-14 years,1825
+654,World Bank Upper Middle Income,,2000,Under 5 ,0
+655,World Bank Upper Middle Income,,2001,70+ years,206699
+656,World Bank Upper Middle Income,,2001,50-69 years,380365
+657,World Bank Upper Middle Income,,2001,15-49 years,344869
+658,World Bank Upper Middle Income,,2001,5-14 years,1818
+659,World Bank Upper Middle Income,,2001,Under 5 ,0
+660,World Bank Upper Middle Income,,2002,70+ years,214433
+661,World Bank Upper Middle Income,,2002,50-69 years,396729
+662,World Bank Upper Middle Income,,2002,15-49 years,355314
+663,World Bank Upper Middle Income,,2002,5-14 years,1769
+664,World Bank Upper Middle Income,,2002,Under 5 ,0
+665,World Bank Upper Middle Income,,2003,70+ years,221585
+666,World Bank Upper Middle Income,,2003,50-69 years,409636
+667,World Bank Upper Middle Income,,2003,15-49 years,363595
+668,World Bank Upper Middle Income,,2003,5-14 years,1714
+669,World Bank Upper Middle Income,,2003,Under 5 ,0
+670,World Bank Upper Middle Income,,2004,70+ years,228073
+671,World Bank Upper Middle Income,,2004,50-69 years,418586
+672,World Bank Upper Middle Income,,2004,15-49 years,366007
+673,World Bank Upper Middle Income,,2004,5-14 years,1653
+674,World Bank Upper Middle Income,,2004,Under 5 ,0
+675,World Bank Upper Middle Income,,2005,70+ years,233146
+676,World Bank Upper Middle Income,,2005,50-69 years,431987
+677,World Bank Upper Middle Income,,2005,15-49 years,371561
+678,World Bank Upper Middle Income,,2005,5-14 years,1582
+679,World Bank Upper Middle Income,,2005,Under 5 ,0
+680,World Bank Upper Middle Income,,2006,70+ years,231293
+681,World Bank Upper Middle Income,,2006,50-69 years,421431
+682,World Bank Upper Middle Income,,2006,15-49 years,354975
+683,World Bank Upper Middle Income,,2006,5-14 years,1503
+684,World Bank Upper Middle Income,,2006,Under 5 ,0
+685,World Bank Upper Middle Income,,2007,70+ years,234868
+686,World Bank Upper Middle Income,,2007,50-69 years,416476
+687,World Bank Upper Middle Income,,2007,15-49 years,342125
+688,World Bank Upper Middle Income,,2007,5-14 years,1466
+689,World Bank Upper Middle Income,,2007,Under 5 ,0
+690,World Bank Upper Middle Income,,2008,70+ years,244474
+691,World Bank Upper Middle Income,,2008,50-69 years,422881
+692,World Bank Upper Middle Income,,2008,15-49 years,341130
+693,World Bank Upper Middle Income,,2008,5-14 years,1496
+694,World Bank Upper Middle Income,,2008,Under 5 ,0
+695,World Bank Upper Middle Income,,2009,70+ years,253167
+696,World Bank Upper Middle Income,,2009,50-69 years,417904
+697,World Bank Upper Middle Income,,2009,15-49 years,328440
+698,World Bank Upper Middle Income,,2009,5-14 years,1566
+699,World Bank Upper Middle Income,,2009,Under 5 ,0
+700,World Bank Upper Middle Income,,2010,70+ years,261680
+701,World Bank Upper Middle Income,,2010,50-69 years,419799
+702,World Bank Upper Middle Income,,2010,15-49 years,322387
+703,World Bank Upper Middle Income,,2010,5-14 years,1534
+704,World Bank Upper Middle Income,,2010,Under 5 ,0
+705,World Bank Upper Middle Income,,2011,70+ years,261597
+706,World Bank Upper Middle Income,,2011,50-69 years,412768
+707,World Bank Upper Middle Income,,2011,15-49 years,303526
+708,World Bank Upper Middle Income,,2011,5-14 years,1497
+709,World Bank Upper Middle Income,,2011,Under 5 ,0
+710,World Bank Upper Middle Income,,2012,70+ years,262328
+711,World Bank Upper Middle Income,,2012,50-69 years,412840
+712,World Bank Upper Middle Income,,2012,15-49 years,291768
+713,World Bank Upper Middle Income,,2012,5-14 years,1480
+714,World Bank Upper Middle Income,,2012,Under 5 ,0
+715,World Bank Upper Middle Income,,2013,70+ years,262660
+716,World Bank Upper Middle Income,,2013,50-69 years,411985
+717,World Bank Upper Middle Income,,2013,15-49 years,283578
+718,World Bank Upper Middle Income,,2013,5-14 years,1436
+719,World Bank Upper Middle Income,,2013,Under 5 ,0
+720,World Bank Upper Middle Income,,2014,70+ years,265116
+721,World Bank Upper Middle Income,,2014,50-69 years,417365
+722,World Bank Upper Middle Income,,2014,15-49 years,279210
+723,World Bank Upper Middle Income,,2014,5-14 years,1391
+724,World Bank Upper Middle Income,,2014,Under 5 ,0
+725,World Bank Upper Middle Income,,2015,70+ years,267922
+726,World Bank Upper Middle Income,,2015,50-69 years,421693
+727,World Bank Upper Middle Income,,2015,15-49 years,270095
+728,World Bank Upper Middle Income,,2015,5-14 years,1342
+729,World Bank Upper Middle Income,,2015,Under 5 ,0
+730,World Bank Upper Middle Income,,2016,70+ years,274763
+731,World Bank Upper Middle Income,,2016,50-69 years,427782
+732,World Bank Upper Middle Income,,2016,15-49 years,264345
+733,World Bank Upper Middle Income,,2016,5-14 years,1309
+734,World Bank Upper Middle Income,,2016,Under 5 ,0
+735,World Bank Upper Middle Income,,2017,70+ years,281552
+736,World Bank Upper Middle Income,,2017,50-69 years,426276
+737,World Bank Upper Middle Income,,2017,15-49 years,260010
+738,World Bank Upper Middle Income,,2017,5-14 years,1264
+739,World Bank Upper Middle Income,,2017,Under 5 ,0
+740,World Bank Upper Middle Income,,2018,70+ years,290271
+741,World Bank Upper Middle Income,,2018,50-69 years,429587
+742,World Bank Upper Middle Income,,2018,15-49 years,261373
+743,World Bank Upper Middle Income,,2018,5-14 years,1257
+744,World Bank Upper Middle Income,,2018,Under 5 ,0
+745,World Bank Upper Middle Income,,2019,70+ years,306245
+746,World Bank Upper Middle Income,,2019,50-69 years,437170
+747,World Bank Upper Middle Income,,2019,15-49 years,261191
+748,World Bank Upper Middle Income,,2019,5-14 years,1258
+749,World Bank Upper Middle Income,,2019,Under 5 ,0
