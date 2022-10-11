@@ -91,7 +91,8 @@
       },
       "axis": {
         "labelColor":"whitesmoke",
-        "titleColor":"whitesmoke"
+        "titleColor":"whitesmoke",
+        "gridColor":"#5c5c5c"
       },
       "legend":{
         "orient":"right",
