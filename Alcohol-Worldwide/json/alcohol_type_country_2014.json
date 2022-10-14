@@ -1,0 +1,90 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Alcohol consumption by type of alcoholic beverage, 2014",
+    "data": {
+      "url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/Alcohol-Worldwide/data/alcohol-by-type-2014.csv"
+    },
+    "params": [
+      {
+        "name": "Country_selection",
+        "value": "Australia",
+        "bind": {
+          "input": "select",
+          "options": [
+            "Australia",
+            "Austria",
+            "Belgium",
+            "Canada",
+            "Denmark",
+            "Finland",
+            "France",
+            "Italy",
+            "Japan",
+            "Netherlands",
+            "New Zealand",
+            "Norway",
+            "Sweden",
+            "Switzerland",
+            "United Kingdom",
+            "United States"
+          ],
+          "labels": [
+            "Australia",
+            "Austria",
+            "Belgium",
+            "Canada",
+            "Denmark",
+            "Finland",
+            "France",
+            "Italy",
+            "Japan",
+            "Netherlands",
+            "New Zealand",
+            "Norway",
+            "Sweden",
+            "Switzerland",
+            "United Kingdom",
+            "United States"
+          ],
+          "name": "Country: "
+        }
+      }
+    ],
+    "transform": [
+      {
+            "calculate": "format(datum.TotalAlcohol/100, '.0%')",
+            "as": "perc_total"
+        },
+      {"filter":"datum.Entity == Country_selection"}
+    ],
+    "layer": [{
+      "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
+    },{
+      "mark": {"type": "text", "radiusOffset": 20},
+      "encoding": {
+        "text": {"field": "perc_total", "type": "ordinal"}
+      }
+    }],
+    "encoding": {
+      "theta": {"field": "TotalAlcohol", "type": "quantitative", "stack": true},
+      "radius": {"field": "TotalAlcohol", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
+      "color": {"field": "Alcohol type", "type": "nominal", "sort":["Spirits"], "title":""}
+    },
+    "config":{
+        "title":{
+          "color":"whitesmoke"
+        },
+        "background":"#181b1f",
+        "axis": {
+          "labelColor":"whitesmoke",
+          "titleColor":"whitesmoke",
+          "gridColor":"#5c5c5c"
+        },
+        "legend":{
+          "orient":"right",
+          "labelColor":"whitesmoke",
+          "titleColor":"whitesmoke"
+        }
+      } 
+  }
+  
