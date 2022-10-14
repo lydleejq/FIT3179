@@ -1,199 +1,49 @@
 ,Entity,Code,Year,Alcohol type,TotalAlcohol
-0,Australia,AUS,1890,Spirits,43
-1,Australia,AUS,1890,Beer,47
-2,Australia,AUS,1890,Wine,10
-3,Australia,AUS,1929,Spirits,20
-4,Australia,AUS,1929,Beer,62
-5,Australia,AUS,1929,Wine,19
-6,Australia,AUS,1964,Spirits,13
-7,Australia,AUS,1964,Beer,75
-8,Australia,AUS,1964,Wine,12
-9,Australia,AUS,1984,Spirits,12
-10,Australia,AUS,1984,Beer,64
-11,Australia,AUS,1984,Wine,24
 12,Australia,AUS,2014,Spirits,14
 13,Australia,AUS,2014,Beer,46
 14,Australia,AUS,2014,Wine,40
-15,Austria,AUT,1964,Spirits,15
-16,Austria,AUT,1964,Beer,55
-17,Austria,AUT,1964,Wine,30
-18,Austria,AUT,1984,Spirits,14
-19,Austria,AUT,1984,Beer,49
-20,Austria,AUT,1984,Wine,37
 21,Austria,AUT,2014,Spirits,14
 22,Austria,AUT,2014,Beer,51
 23,Austria,AUT,2014,Wine,35
-24,Belgium,BEL,1890,Spirits,35
-25,Belgium,BEL,1890,Beer,62
-26,Belgium,BEL,1890,Wine,3
-27,Belgium,BEL,1929,Spirits,12
-28,Belgium,BEL,1929,Beer,81
-29,Belgium,BEL,1929,Wine,8
-30,Belgium,BEL,1964,Spirits,11
-31,Belgium,BEL,1964,Beer,77
-32,Belgium,BEL,1964,Wine,13
-33,Belgium,BEL,1984,Spirits,18
-34,Belgium,BEL,1984,Beer,61
-35,Belgium,BEL,1984,Wine,21
 36,Belgium,BEL,2014,Spirits,14
 37,Belgium,BEL,2014,Beer,51
 38,Belgium,BEL,2014,Wine,35
-39,Canada,CAN,1964,Spirits,34
-40,Canada,CAN,1964,Beer,60
-41,Canada,CAN,1964,Wine,6
-42,Canada,CAN,1984,Spirits,38
-43,Canada,CAN,1984,Beer,48
-44,Canada,CAN,1984,Wine,14
 45,Canada,CAN,2014,Spirits,26
 46,Canada,CAN,2014,Beer,49
 47,Canada,CAN,2014,Wine,25
-48,Denmark,DNK,1929,Spirits,42
-49,Denmark,DNK,1929,Beer,55
-50,Denmark,DNK,1929,Wine,4
-51,Denmark,DNK,1964,Spirits,15
-52,Denmark,DNK,1964,Beer,77
-53,Denmark,DNK,1964,Wine,8
-54,Denmark,DNK,1984,Spirits,16
-55,Denmark,DNK,1984,Beer,65
-56,Denmark,DNK,1984,Wine,19
 57,Denmark,DNK,2014,Spirits,16
 58,Denmark,DNK,2014,Beer,38
 59,Denmark,DNK,2014,Wine,47
-60,Finland,FIN,1964,Spirits,66
-61,Finland,FIN,1964,Beer,21
-62,Finland,FIN,1964,Wine,13
-63,Finland,FIN,1984,Spirits,46
-64,Finland,FIN,1984,Beer,42
-65,Finland,FIN,1984,Wine,12
 66,Finland,FIN,2014,Spirits,26
 67,Finland,FIN,2014,Beer,53
 68,Finland,FIN,2014,Wine,21
-69,France,FRA,1890,Spirits,26
-70,France,FRA,1890,Beer,6
-71,France,FRA,1890,Wine,68
-72,France,FRA,1929,Spirits,12
-73,France,FRA,1929,Beer,6
-74,France,FRA,1929,Wine,82
-75,France,FRA,1964,Spirits,13
-76,France,FRA,1964,Beer,10
-77,France,FRA,1964,Wine,78
-78,France,FRA,1984,Spirits,16
-79,France,FRA,1984,Beer,16
-80,France,FRA,1984,Wine,69
 81,France,FRA,2014,Spirits,23
 82,France,FRA,2014,Beer,19
 83,France,FRA,2014,Wine,59
-84,Italy,ITA,1890,Spirits,5
-85,Italy,ITA,1890,Beer,0
-86,Italy,ITA,1890,Wine,95
-87,Italy,ITA,1929,Spirits,4
-88,Italy,ITA,1929,Beer,1
-89,Italy,ITA,1929,Wine,95
-90,Italy,ITA,1964,Spirits,10
-91,Italy,ITA,1964,Beer,3
-92,Italy,ITA,1964,Wine,87
-93,Italy,ITA,1984,Spirits,12
-94,Italy,ITA,1984,Beer,8
-95,Italy,ITA,1984,Wine,80
 96,Italy,ITA,2014,Spirits,11
 97,Italy,ITA,2014,Beer,23
 98,Italy,ITA,2014,Wine,65
-99,Japan,JPN,1964,Spirits,78
-100,Japan,JPN,1964,Beer,20
-101,Japan,JPN,1964,Wine,2
-102,Japan,JPN,1984,Spirits,67
-103,Japan,JPN,1984,Beer,29
-104,Japan,JPN,1984,Wine,4
 105,Japan,JPN,2014,Spirits,74
 106,Japan,JPN,2014,Beer,21
 107,Japan,JPN,2014,Wine,5
-108,Netherlands,NLD,1890,Spirits,71
-109,Netherlands,NLD,1890,Beer,25
-110,Netherlands,NLD,1890,Wine,4
-111,Netherlands,NLD,1929,Spirits,45
-112,Netherlands,NLD,1929,Beer,47
-113,Netherlands,NLD,1929,Wine,8
-114,Netherlands,NLD,1964,Spirits,43
-115,Netherlands,NLD,1964,Beer,48
-116,Netherlands,NLD,1964,Wine,9
-117,Netherlands,NLD,1984,Spirits,29
-118,Netherlands,NLD,1984,Beer,49
-119,Netherlands,NLD,1984,Wine,22
 120,Netherlands,NLD,2014,Spirits,17
 121,Netherlands,NLD,2014,Beer,48
 122,Netherlands,NLD,2014,Wine,35
-123,New Zealand,NZL,1890,Spirits,66
-124,New Zealand,NZL,1890,Beer,32
-125,New Zealand,NZL,1890,Wine,2
-126,New Zealand,NZL,1964,Spirits,18
-127,New Zealand,NZL,1964,Beer,78
-128,New Zealand,NZL,1964,Wine,4
-129,New Zealand,NZL,1984,Spirits,20
-130,New Zealand,NZL,1984,Beer,64
-131,New Zealand,NZL,1984,Wine,17
 132,New Zealand,NZL,2014,Spirits,19
 133,New Zealand,NZL,2014,Beer,43
 134,New Zealand,NZL,2014,Wine,38
-135,Norway,NOR,1964,Spirits,69
-136,Norway,NOR,1964,Beer,27
-137,Norway,NOR,1964,Wine,4
-138,Norway,NOR,1984,Spirits,58
-139,Norway,NOR,1984,Beer,34
-140,Norway,NOR,1984,Wine,9
 141,Norway,NOR,2014,Spirits,36
 142,Norway,NOR,2014,Beer,35
 143,Norway,NOR,2014,Wine,29
-144,Sweden,SWE,1964,Spirits,52
-145,Sweden,SWE,1964,Beer,39
-146,Sweden,SWE,1964,Wine,9
-147,Sweden,SWE,1984,Spirits,41
-148,Sweden,SWE,1984,Beer,39
-149,Sweden,SWE,1984,Wine,20
 150,Sweden,SWE,2014,Spirits,15
 151,Sweden,SWE,2014,Beer,37
 152,Sweden,SWE,2014,Wine,48
-153,Switzerland,CHE,1890,Spirits,20
-154,Switzerland,CHE,1890,Beer,17
-155,Switzerland,CHE,1890,Wine,63
-156,Switzerland,CHE,1929,Spirits,27
-157,Switzerland,CHE,1929,Beer,25
-158,Switzerland,CHE,1929,Wine,49
-159,Switzerland,CHE,1964,Spirits,20
-160,Switzerland,CHE,1964,Beer,38
-161,Switzerland,CHE,1964,Wine,42
-162,Switzerland,CHE,1984,Spirits,20
-163,Switzerland,CHE,1984,Beer,31
-164,Switzerland,CHE,1984,Wine,49
 165,Switzerland,CHE,2014,Spirits,19
 166,Switzerland,CHE,2014,Beer,34
 167,Switzerland,CHE,2014,Wine,47
-168,United Kingdom,GBR,1890,Spirits,30
-169,United Kingdom,GBR,1890,Beer,68
-170,United Kingdom,GBR,1890,Wine,2
-171,United Kingdom,GBR,1929,Spirits,17
-172,United Kingdom,GBR,1929,Beer,78
-173,United Kingdom,GBR,1929,Wine,4
-174,United Kingdom,GBR,1964,Spirits,15
-175,United Kingdom,GBR,1964,Beer,81
-176,United Kingdom,GBR,1964,Wine,4
-177,United Kingdom,GBR,1984,Spirits,20
-178,United Kingdom,GBR,1984,Beer,69
-179,United Kingdom,GBR,1984,Wine,11
 180,United Kingdom,GBR,2014,Spirits,22
 181,United Kingdom,GBR,2014,Beer,37
 182,United Kingdom,GBR,2014,Wine,41
-183,United States,USA,1890,Spirits,49
-184,United States,USA,1890,Beer,47
-185,United States,USA,1890,Wine,4
-186,United States,USA,1929,Spirits,0
-187,United States,USA,1929,Beer,0
-188,United States,USA,1929,Wine,0
-189,United States,USA,1964,Spirits,44
-190,United States,USA,1964,Beer,48
-191,United States,USA,1964,Wine,8
-192,United States,USA,1984,Spirits,36
-193,United States,USA,1984,Beer,51
-194,United States,USA,1984,Wine,13
 195,United States,USA,2014,Spirits,34
 196,United States,USA,2014,Beer,49
 197,United States,USA,2014,Wine,18

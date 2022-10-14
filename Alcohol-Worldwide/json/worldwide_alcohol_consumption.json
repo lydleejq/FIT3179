@@ -7,21 +7,22 @@
   "params": [
     {
       "name": "Year_selection",
+      "value": "2018",
       "bind": {
         "input": "select",
         "options": [
-          null,
           "2000",
           "2005",
           "2010",
-          "2015"
+          "2015",
+          "2018"
         ],
         "labels": [
-          "2018",
           "2000",
           "2005",
           "2010",
-          "2015"
+          "2015",
+          "2018"
         ],
         "name": "Year: "
       }
@@ -81,7 +82,7 @@
           },
           "as": "geo"
         },
-        {"filter": "Year_selection == null || datum.Year==Year_selection"}
+        {"filter": "datum.Year==Year_selection"}
       ],
       "mark": {"type": "geoshape", "stroke": "#fff", "strokeWidth": 0.3},
       "encoding": {

@@ -11,10 +11,10 @@
   },
   {
       "name": "Entity_selection",
+      "value": "World",
       "bind": {
         "input": "select",
         "options": [
-          null,
           "World",
           "World Bank High Income",
           "World Bank Low Income",
@@ -22,7 +22,6 @@
           "World Bank Upper Middle Income"
         ],
         "labels": [
-          "Show All",
           "World",
           "World Bank High Income",
           "World Bank Low Income",
@@ -58,7 +57,7 @@
       {"field": "Year", "timeUnit": "year", "title": "Year"}
     ]
  },
- "transform": [{"filter": "Entity_selection == null || datum.Entity==Entity_selection"}]}
+ "transform": [{"filter": "datum.Entity==Entity_selection"}]}
  ],
 "config":{
   "title":{
