@@ -1,0 +1,141 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "values": [
+      {"gender": "Male", "value": 83540000},
+      {"gender": "Female", "value": 24520000}
+    ]
+    },
+    "transform": [{
+      "calculate": "datum.value/108060000", "as": "gender_perc"
+    }],
+    "width": "container",
+    "height": 10,
+    "layer": [
+        {
+            "params": [
+                {
+                    "name": "highlight",
+                    "select": {
+                        "type": "point",
+                        "on": "mouseover"
+                    }
+                },
+                {
+                    "name": "no_highlight",
+                    "select": {
+                        "type": "point",
+                        "on": "mouseout"
+                    }
+                },
+                {
+                    "name": "select",
+                    "select": "point"
+                }
+            ],
+            "mark": {
+                "type": "bar",
+                "size": 50,
+                "stroke": "white",
+                "cursor": "pointer"
+            },
+            "encoding": {
+                "x": {
+                    "field": "gender_perc",
+                    "type": "quantitative",
+                    "axis": null,
+                    "sort": "descending"
+                },
+                "color": {
+                    "field": "gender",
+                    "type": "nominal",
+                    "sort":"-x",
+                    "legend": {
+                        "title": "Gender",
+                        "orient": "bottom",
+                        "direction": "horizontal",
+                        "columns": 2,
+                        "labelFont": "Arial",
+                        "symbolSize": 300,
+                        "offset": 30
+                    },
+                    "scale": {
+                        "range": [
+                            "#8700f9",
+                            "#00c4aa"
+                        ]
+                    }
+                },
+                "tooltip": [
+                    {
+                        "field": "gender",
+                        "title": "Gender"
+                    },
+                    {
+                        "field": "value",
+                        "title": "Total Cases",
+                        "format": ".3s"
+                    }
+                ],
+                "fillOpacity": {
+                    "condition": {
+                        "param": "select",
+                        "value": 1
+                    },
+                    "value": 0.3
+                },
+                "strokeWidth": {
+                    "condition": [
+                        {
+                            "param": "select",
+                            "empty": false,
+                            "value": 3
+                        }
+                    ],
+                    "value": 0
+                },
+                "size":{
+                    "condition":[
+                        {
+                            "param": "highlight",
+                            "empty": false,
+                            "value": 60
+                        },
+                        {
+                            "param": "no_highlight",
+                            "empty": false,
+                            "value": 50
+                        }
+                    ]
+                }
+            }
+            
+        }, {
+    "mark": {"type": "text", "opacity": 0.9, "color": "white", "fontWeight":"bold", "fontSize":15},
+    "encoding": {
+      "x": {
+        "aggregate": "sum", "field": "gender_perc",
+        "title": "population",
+        "stack":  "normalize",
+        "bandPosition": 0.5
+      },
+      "text": {
+        "aggregate": "sum", "field": "gender_perc",
+        "title": "population",
+        "format":".0%"
+      },
+      "detail": {
+        "field": "gender"
+      }
+    }
+        }
+    ],
+    "config": {
+        "style": {
+            "cell": {
+                "stroke": "transparent"
+            }
+        }
+    }
+}
+
