@@ -107,19 +107,18 @@
   ],
   "config":{
     "title":{
-      "color":"whitesmoke"
+      "color":"black"
     },
-    "background":"#181b1f",
+    "background":"#c6ecff",
     "axis": {
       "labelColor":"whitesmoke",
       "titleColor":"whitesmoke",
       "gridColor":"#5c5c5c"
     },
     "legend":{
-      "orient":"bottom-left",
-      "labelColor":"whitesmoke",
-      "titleColor":"whitesmoke",
-      "fillColor":"#00000085"
+      "orient":"bottom",
+      "labelColor":"black",
+      "titleColor":"whitesmoke"
     }
   } 
 }
