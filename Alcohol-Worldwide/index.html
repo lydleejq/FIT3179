@@ -45,6 +45,18 @@
         <div id="vis1" class="vis-container"></div>
       </div>
     </div>
+    
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+          <div id="vis5" class="vis-container"></div>
+      </div>
+      <div class="pure-u-1-2">
+        <div class="description description-right">
+          <h2>Type of Alcohol Consumed by Each Country</h2>
+          <p>Use the dropdown menu to explore how the alcohol type consumed differs across the globe.</p>
+        </div>
+      </div>
+    </div>
 
     <!-- pure grid group -->
     <div class="pure-g">
@@ -104,6 +116,7 @@
     var specVis2 = "json/deaths_risk_factor.json";
     var specVis3 = "json/deaths_by_age_group.json";
     var specVis4 = "json/premature_deaths_alcohol.json";
+    var specVis5 = "json/alcohol_type_country_2014.json";
 
     vegaEmbed('#vis1', specVis1, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
@@ -118,6 +131,10 @@
     }).catch(console.error);
 
     vegaEmbed('#vis4', specVis4, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis5', specVis5, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 

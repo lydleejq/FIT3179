@@ -1,6 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Alcohol consumption by type of alcoholic beverage, 2014",
+    "width":"container",
+    "height":"container",
     "data": {
       "url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/Alcohol-Worldwide/data/alcohol-by-type-2014.csv"
     },
