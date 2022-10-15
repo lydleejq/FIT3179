@@ -16,8 +16,9 @@
   <!-- Google font -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet'>
 
+  <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Karla' rel='stylesheet'>
   <!-- CSS file -->
   <link rel="stylesheet" type="text/css" href="./styles.css" media="all">
 
@@ -37,69 +38,103 @@
 
     <div class="pure-g">
       <div class="pure-u-1-1">
-        <h2>Alcohol Consumption Across the Globe</h2>
-          <p>This interactive map shows the annual average alcohol consumption of alcohol, expressed per person aged 15 years or older. 
-            To account for the differences in alcohol content of different alcoholic drinks (e.g. beer, wine, spirits), this is reported in liters of pure alcohol per year.
-          <br>Select a year to see how alcohol consumption was for that year.
-          </p>
-        <div id="vis1" class="vis-container"></div>
+        <h2>Alcohol consumption across the globe</h2>
+          <h3>This interactive map shows the annual average alcohol consumption of alcohol, expressed per person aged 15 years or older.
+            The global average consumption was <b>6.18 liters</b> per person in the latest year available.
+            The average amount of alcohol consumed per person around the world 
+            varies greatly, as the map illustrates. We see notable geographic variations: alcohol use 
+            in <b>North Africa</b> and the <b>Middle East</b> is almost nonexistent.</h3>
+            
+            <p>Select a year from the dropdown menu to explore global alcohol consumption of that year. Hover over each country to learn more.</p>
+      </div>
+      <div class="pure-u-1-1">
+        <div id="vis1" class="map-container"></div>
       </div>
     </div>
     
     <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h2>What is each country's favourite drink?</h2>
+        <h3>The pie charts depicts the types of alcoholic beverages (spirit, beer, wine) consumed by select countries in 2014, 
+          and are placed side by side to aid with comparison. Australia and Japan have been selected by default. 
+          The most popular type of alcoholic beverage in Australia is <b>beer</b>, while for Japan <b>spirits</b> is the clear winner.</h3>
+        <p>Select two countries from the dropdown menus to compare their alcohol consumption.</p>
+      </div>
       <div class="pure-u-1-2">
-          <div id="vis5" class="vis-container"></div>
+        <div class="description description-left">
+          <div id="vis5" class="pie-container"></div>
+        </div>
       </div>
       <div class="pure-u-1-2">
         <div class="description description-right">
-          <h2>Type of Alcohol Consumed by Each Country</h2>
-          <p>Use the dropdown menu to explore how the alcohol type consumed differs across the globe.</p>
+          <div id="vis7" class="pie-container"></div>
         </div>
       </div>
     </div>
 
     <!-- pure grid group -->
     <div class="pure-g">
-        <div class="pure-u-1-2">
+      <div class="pure-u-1-1">
+          <h2>The health impact of alcohol</h2>
+          <h3>Alcohol is responsible for <b>2.8 million</b> premature deaths each year.
+            This makes it one of the world’s <b>largest risk factors</b> for premature death.
+            This interactive bar chart shows the <b>total annual number of deaths</b> attributed to each risk factor, 
+            measured across all age groups and both sexes in the world. 
+          </h3>
+          <p>Drag the slider to learn how alcohol use ranks among other risk factors over the years (1990-2019).</p>
+      </div>
+        <div class="pure-u-1-1">
             <div id="vis2" class="vis-container"></div>
-        </div>
-        <div class="pure-u-1-2">
-          <div class="description description-right">
-            <h2>Alcohol is responsible for <b>2.8 million</b> premature deaths each year.</h2>
-            <p>Drag the slider to learn how alcohol use ranks among other risk factors over the years.</p>
-          </div>
         </div>
     </div>
     <!-- end pure grid group -->
 
     <div class="pure-g">
-      <div class="pure-u-1-2">
-          <div id="vis3" class="vis-container"></div>
+      <div class="pure-u-1-1">
+        <h2>Analysis of premature deaths caused by alcohol</h2>
+        <h3>The world's economies are divided into four income groups by the World Bank: <b>low, lower-middle, upper-middle, and high income</b>.
+          We will investigate how premature death rates caused by alcohol correlates with this classification. 
+        </h3>
       </div>
-      <div class="pure-u-1-2">
+      <div class="pure-u-3-5">
+        <div id="vis4" class="vis-container-2"></div>
+      </div>
+      <div class="pure-u-2-5">
         <div class="description description-right">
-          <h2>Alcohol related deaths by age</h2>
-          <p>The chart shows the age distribution of those dying premature deaths due to alcohol.
-            Globally almost <b>three quarters</b> are younger than 70 years. <b>28%</b> are younger than 50 years.</p>
+          <h2>Rate of premature deaths due to alcohol</h2>
+          <h3>The line chart shows the age standardized rate of deaths per 100,000 people.
+            Globally the rate has declined from <b>43 deaths</b> per 100,000 people in the early 1990s to <b>35 deaths</b> in 2017.
+            <br><br>Among the four income groups, <b>low income countries</b> have the highest number of deaths due to alcohol.
+          </h3>
         </div>
       </div>
+
+      <div class="pure-u-3-5">
+          <div id="vis3" class="vis-container-2"></div>
+      </div>
+      <div class="pure-u-2-5">
+        <div class="description description-right">
+          <h2>Alcohol related deaths by income and age</h2>
+          <h3>The area chart shows the age distribution of those dying premature deaths due to alcohol.
+            Globally almost <b>three quarters</b> are younger than 70 years. <b>28 percent</b> are younger than 50 years.</h3>
+          <br><br>
+            <p>Select a World Bank country classification from the dropdown menu to explore how they affect the proportion of age groups. 
+          </p>
+          </div>
+      </div>
     </div>
+
+    
 
     <div class="pure-g">
-      <div class="pure-u-1-2">
-        <div id="vis4" class="vis-container"></div>
-      </div>
-      <div class="pure-u-1-2">
-        <div class="description description-right">
-          <h2>Rates of premature deaths due to alcohol across regions</h2>
-          <p>The chart shows the age standardized rate of deaths per 100,000 people.
-            Globally the rate has declined from <b>43 deaths</b> per 100,000 people in the early 1990s to <b>35 deaths</b> in 2017.
-            Among the four country groups, low income countries have the highest number of deaths due to alcohol.
-          </p>
-        </div>
+      <div class="pure-u-1-1">
+        <h2>Prevalence of alcohol use disorders, males versus females</h2>
+        <h3><b>Alcohol use disorder</b> refers to drinking of alcohol that causes mental and physical health problems. 
+          Globally, <b>108 million</b> people are estimated to have an alcohol use disorder. 
+          <b>77 percent</b> globally (83.5 million) were male relative to 24.5 million females in 2019.</h3>
+        <div id="vis6" class="bar-container"></div>
       </div>
     </div>
-
 
     <div class="pure-g">
       <div class="pure-u-1-1 small-font">
@@ -117,6 +152,8 @@
     var specVis3 = "json/deaths_by_age_group.json";
     var specVis4 = "json/premature_deaths_alcohol.json";
     var specVis5 = "json/alcohol_type_country_2014.json";
+    var specVis6 = "json/gender_alcohol_disorders.json";
+    var specVis7 = "json/alcohol_type_country_2014_2.json"
 
     vegaEmbed('#vis1', specVis1, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
@@ -138,6 +175,13 @@
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
+    vegaEmbed('#vis6', specVis6, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#vis7', specVis7, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
   </script>
 </body>
 

@@ -135,7 +135,22 @@
             "cell": {
                 "stroke": "transparent"
             }
-        }
+        },
+        "title":{
+            "color":"whitesmoke"
+          },
+          "background":"#272d33",
+          "axis": {
+            "labelColor":"whitesmoke",
+            "titleColor":"whitesmoke",
+            "gridColor":"#5c5c5c"
+          },
+          "legend":{
+            "orient":"right",
+            "labelColor":"whitesmoke",
+            "titleColor":"whitesmoke",
+            "labelFontSize":15
+          }
     }
 }
 

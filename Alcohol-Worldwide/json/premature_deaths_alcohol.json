@@ -3,13 +3,26 @@
     "data": {"url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/Alcohol-Worldwide/data/rate-of-premature-deaths-due-to-alcohol-world.csv"},
     "width": "container",
     "height": "container",
+    "padding":20, 
     "title": "Rate of premature deaths due to alcohol, 1990 to 2019",
     "encoding": {"x": {"field": "Year", "type": "temporal"}},
     "layer": [
       {
         "encoding": {
-          "color": {"field": "Entity", "type": "nominal"},
-          "y": {"field": "Deaths", "type": "quantitative"}
+          "color": {
+            "field": "Entity", 
+            "type": "nominal",
+            "scale": {
+              "range": [
+                "#ffffff",
+                "#E69F00", 
+                "#56B4E9",
+                "#CC79A7",
+                "#D55E00"
+              ]
+            }
+          },
+          "y": {"field": "Deaths", "type": "quantitative", "title":"Deaths per 100,000 people"}
         },
         "layer": [
           {"mark": "line"},
@@ -26,6 +39,7 @@
             "value": 0
           },
           "tooltip": [
+            {"field":"Year","type": "temporal","timeUnit":"year","title":"Year"},
             {"field": "World", "type": "quantitative", "format":".2f"},
             {"field": "World Bank High Income", "type": "quantitative", "title":"High Income","format":".2f"},
             {"field": "World Bank Low Income", "type": "quantitative", "title":"Low Income","format":".2f"},
@@ -47,13 +61,17 @@
     ],
     "config":{
       "title":{
-        "color":"whitesmoke"
+        "color":"whitesmoke",
+        "anchor":"start",
+        "offset":20
       },
       "background":"#181b1f",
       "axis": {
         "labelColor":"whitesmoke",
         "titleColor":"whitesmoke",
-        "gridColor":"#5c5c5c"
+        "gridColor":"#5c5c5c",
+        "gridOpacity":0.4,
+        "labelFontSize":12
       },
       "legend":{
         "orient":"bottom-left",

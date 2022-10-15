@@ -9,7 +9,7 @@
     "params": [
       {
         "name": "Country_selection",
-        "value": "Australia",
+        "value": "Japan",
         "bind": {
           "input": "select",
           "options": [

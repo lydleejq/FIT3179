@@ -1,16 +1,9 @@
-/* body *{
-    font-family: 'Lato', sans-serif;
-} */
-
-h1 {
-    font-weight: 900;
-}
 
 body {
     text-align: justify;
     background-color: #181b1f;
     font-family: 'Lato', 'sans-serif';
-    color: whitesmoke;
+    color: #f0f0f0;
 }
 
 header {
@@ -27,6 +20,16 @@ header {
     line-height: 1.6em;
 }
 
+.map-container {
+    width: 100%;
+    height: 500px;
+} 
+
+.pie-container {
+    width: 100%;
+    height: 300px;
+}
+
 .vis-container {
     width: 100%;
     height: 500px;
@@ -34,28 +37,12 @@ header {
 
 .vis-container-2 {
     width: 100%;
-    height: 300px;
+    height: 350px;
 }
 
-.header {
-    margin: 0 auto;
-    max-width: 1000px;
-    padding: 2.5em 1em 0;
- }
-    
-.header h1 {
-        margin: 0.2em 0;
-        font-size: 3em;
-        font-weight: 500;
-        font-family: Georgia, serif;
-}
-     
-.header h2 {
-        font-size: 0.8em;
-        font-weight: 300;
-        color: black;
-        padding: 0;
-        margin-top: 0;
+.bar-container {
+    width: 100%;
+    height: 100px;
 }
 
 .header-container{
@@ -63,9 +50,17 @@ header {
 }
 .header-container img{
     align-self: center;
-    margin-top: 10px;
+    margin-bottom: 20px;
     margin-left: 10px;
-    max-width: 40px;
+    max-width: 50px;
+}
+
+.header-container h1 {
+    margin: 0.2em 0;
+    font-size: 3em;
+    font-weight: 550;
+    font-family: 'Georgia', serif; 
+    padding-bottom: 0.3em;
 }
 
 .description h2,
@@ -83,12 +78,66 @@ h1 {
 
 .pure-g {
     background-color: #272d33;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     padding: 10px;
     border-radius: 0.2em;
 }
 
+.pure-g h2 {
+    font-size: 1.8em;
+    font-weight:bold;
+    margin: 0.5em 0.5em 0.5em 0;
+}
+
+.pure-g h3 {
+    font-size: 1.1em;
+    font-family: 'Karla', sans-serif;
+    font-weight: 100;
+    color:#F2F2F2;
+}
+
+
+.pure-g p {
+    font-family: 'Lato', sans-serif;
+    font-weight: 50;
+    color:#D0CFCF;
+    font-size: smaller;
+}
+
+b {
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+
+
 
 .small-font {
     font-size: 14px;
+}
+
+#vis1 .vega-bindings{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: #181b1f;
+}
+
+#vis2 .vega-bindings{
+    position:relative;
+}
+
+#vis3 .vega-bindings{
+    position: relative;
+    left: 120px;
+}
+
+#vis5 .vega-bindings{
+    position: relative;
+    left: 120px;
+}
+
+#vis7 .vega-bindings{
+    position: relative;
+    left: 120px;
 }

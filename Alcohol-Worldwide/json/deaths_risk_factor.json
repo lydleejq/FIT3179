@@ -2,7 +2,8 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": "container",
     "height": "container",
-    "title":"Total annual number of deaths by risk factor, World",
+    "padding": 20,
+    "title":"Total annual number of deaths by risk factor",
     "data": {"url": "https://raw.githubusercontent.com/lydleejq/FIT3179/main/Alcohol-Worldwide/data/number-of-deaths-by-risk-factor-world.csv"},
     "params": [
       {
@@ -47,11 +48,11 @@
           "color": {
             "condition": [
               {
-                "value": "tomato",
+                "value": "red",
                 "test": {"field": "Risk", "oneOf": ["Alcohol use"]}
               }
             ],
-            "value": "#ddd"
+            "value": "silver"
           },
           "tooltip": [
             {"field": "Entity", "type": "nominal", "title": "Location"},
@@ -75,29 +76,34 @@
           "color": {
             "condition": [
               {
-                "value": "tomato",
+                "value": "whitesmoke",
                 "test": {"field": "Risk", "oneOf": ["Alcohol use"]}
               }
             ],
-            "value": "white"
+            "value": "silver"
           },
         "detail": {"aggregate": "count"}
       }
     }],
     "config":{
       "title":{
-        "color":"whitesmoke"
+        "color":"whitesmoke",
+        "anchor":"start",
+        "offset":20
       },
       "background":"#181b1f",
       "axis": {
         "labelColor":"whitesmoke",
         "titleColor":"whitesmoke",
-        "gridColor":"#5c5c5c"
+        "labelFontWeight":"lighter",
+        "gridColor":"#5c5c5c",
+        "gridOpacity":0.4,
+        "labelFontSize":13,
+        "labelLimit":500
       },
-      "legend":{
-        "orient":"right",
-        "labelColor":"whitesmoke",
-        "titleColor":"whitesmoke"
-      }
+      "style":{"cell":{
+        "stroke": "transparent",
+        "align":"center"
+        }}
     } 
   }

@@ -2,8 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",
   "padding": 5,
-  "width": 980,
-  "height": "container",
+  "height":"container",
+  "width":"container",
   "params": [
     {
       "name": "Year_selection",
@@ -98,7 +98,7 @@
           {
             "field": "Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",
             "type": "quantitative",
-            "title": "Total alcohol consumption per capita",
+            "title": "Liters per capita",
             "format": ".2f"
           },
           {"field": "Year", "type": "quantitative", "title": "Year"}
@@ -119,7 +119,8 @@
     "legend":{
       "orient":"bottom",
       "labelColor":"black",
-      "titleColor":"whitesmoke"
+      "titleColor":"black",
+      "labelFontSize":12
     }
   } 
 }
