@@ -8,7 +8,7 @@ body {
 
 header {
     margin: 0 auto;
-    max-width: 1000px;
+    max-width: 900px;
     padding: 2.5em 1em 0;
 }
 
@@ -57,10 +57,11 @@ header {
 
 .header-container h1 {
     margin: 0.2em 0;
-    font-size: 3em;
+    font-size: 3.26em;
     font-weight: 550;
-    font-family: 'Georgia', serif; 
+    font-family:'Garamond', serif; 
     padding-bottom: 0.3em;
+    max-width: 900px;
 }
 
 .description h2,
