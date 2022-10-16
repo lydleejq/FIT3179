@@ -141,3 +141,7 @@ b {
     position: relative;
     left: 120px;
 }
+
+a:visited{
+    color:aquamarine;
+}
