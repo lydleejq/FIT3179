@@ -70,7 +70,11 @@
     "encoding": {
       "theta": {"field": "TotalAlcohol", "type": "quantitative", "stack": true},
       "radius": {"field": "TotalAlcohol", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
-      "color": {"field": "Alcohol type", "type": "nominal", "sort":["Spirits"], "title":"Alcohol type"}
+      "color": {"field": "Alcohol type", "type": "nominal", "sort":["Spirits"], "title":"Alcohol type"},
+      "tooltip":[
+        {"field": "Alcohol type"},
+        {"field": "perc_total", "title": "Percentage over total"}
+      ]
     },
     "config":{
         "title":{
